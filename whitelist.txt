@@ -1,23 +1,3 @@
-! ads replacement on lenta.ru
-! fixing 2ip.ua and ipinfo.info sites
-! fixing blick.ch
-! fixing naver.com purchases(blocked redirect)
-! fixing proofpoint.com
-! fixing smallseotools.com
-! fixing streamplay.to
-! fixing tv-tokyo.co.jp, blocked by cname
-! fixing video player on estream.to
-! fixing video player on onet.pl
-! instana.io - not a tracking service
-! octafx.com incorrect blocking
-! plausible - don t break the whole website, blocked plausible.js already
-! sentry.io bug tracker
-! stroeerdigitalpublishing.de - broken website
-! this rule blocked c.disquscdn.com by cname
-! unblock ipgeolocation.io (not analytics)
-! unblocking report-uri.com web site
-! usa.experian.com is broken after authorization
-! westernunion.com is broken https
 *.admin-mcas.ms
 *.cas.ms
 0-edge-chat.facebook.com
@@ -91,7 +71,6 @@
 101cells.com
 101dog.com
 101tshirts.co.uk
-104.
 104web.co.jp
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 10ktruth.com
@@ -146,10 +125,8 @@
 12voltdirect.com
 12voltproducts.com
 12xlshop.com
-130.211.
 1326concordflowers.com
 1337.cx
-142.91.
 143gifts.com
 14k9.com
 14kdesigns.com
@@ -318,7 +295,6 @@
 2002ties.com
 2002watch.com
 20thcentury-decorative-arts.co.uk
-216.21.
 21riccione.it
 21stcenturyyarns.com
 21stgold.com
@@ -407,7 +383,6 @@
 32above.gr
 3322.org
 338av.com
-35.
 360.yahoo.com
 360bc.com
 360degree.com.my
@@ -563,9 +538,6 @@
 501usa.com
 5055.co.jp
 50wishes.com
-51.158.
-51.77.
-51.89.
 510vintage.com
 51flower.cn
 51tennis.com
@@ -1694,7 +1666,6 @@ afishman.com
 afishybusiness.com
 afitnessequipment.com
 afl.com.au
-afl.rakuten.co.jp
 aflagstore.com
 aflat.jp
 aflinker.com
@@ -2870,7 +2841,6 @@ anadolufinans.com.tr
 anaheimpatio.com
 anakmama.com
 analitik.edevlet.gov.tr
-analytics.google.com
 analytics.twitter.com
 analyzersoftware.com
 anamorfose.be
@@ -3368,7 +3338,6 @@ api-notify.dropbox.com
 api.accuweather.com
 api.adguard.com
 api.adguard.org
-api.amplitude.com
 api.apple-cloudkit.com
 api.apptentive.com
 api.bountysource.com
@@ -5762,7 +5731,6 @@ bastelonlineshop.de
 bastelpark.de
 bastelschneckchen.de
 basvuru.denizbank.com
-bat.bing.com
 batacz.cz
 batemans-auctions.co.uk
 batesbedspreads.com
@@ -8191,7 +8159,6 @@ bradynationalbank.com
 braemaraudiology.co.uk
 bragada.com
 braganzas.com
-brahe.apptimize.com
 brahmas.com
 braidershand.com
 braidsrugs.com
@@ -11299,7 +11266,6 @@ cli.gs
 click-n-order.net
 click.cptrack.de
 click.email.sonos.com
-click.engage.xbox.com
 click.icptrack.com
 click.linksynergy.com
 click.mail.macmillan.com
@@ -13010,7 +12976,6 @@ csvav.com.au
 csvpens.co.uk
 cswallpaper.com
 ct.impactradius.com
-ct.pinterest.com
 ct.sendgrid.net
 ct.techrepublic.com
 ct.yimg.com
@@ -13344,7 +13309,6 @@ d1.com.cn
 d13itkw33a7sus.cloudfront.net
 d1a62freaxhn7x.cloudfront.net
 d1afootball.com
-d231vab146qzfb.cloudfront.net
 d2c87l0yth4zbw.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
 d2dimports.co.uk
@@ -15986,7 +15950,6 @@ e-zegarek.pl
 e-zegarki.pl
 e.clhs.com.ua
 e.paba.hr
-e.reddit.com
 e.seb.lt
 e081.com
 e1.whatsapp.net
@@ -20355,7 +20318,6 @@ g-unitclothing.com
 g.co
 g.download.windowsupdate.com.c.footprint.net
 g.live.com
-g.msn.com
 g.whatsapp.net
 g00.me
 g02.ir
@@ -22060,7 +22022,6 @@ google.tt
 google.vg
 google.vu
 google.ws
-googleadapis.l.google.com
 googleapis.com
 googleapis.com$app=com.google.android.calendar
 googleapis.com$app=com.google.android.gms
@@ -29589,7 +29550,6 @@ lodz.tvp.pl
 loebbecke-bank.de
 lof.cc
 loftykids.com
-log*-*.tiktokv.com
 log-upload.mihoyo.com
 log2shop.com
 logcabinarts.com
@@ -38561,7 +38521,6 @@ pukahawaii.com
 pulamascrubs.com
 pulkstenis.lv
 pullingwater.com
-pulsar.ebay.com
 pulsat.com
 pulseonline.com
 pult.ru
@@ -39662,7 +39621,6 @@ rcsiden.dk
 rctoys.com
 rcwilley.com
 rd.bizrate.com
-rd.rakuten.co.jp
 rdavidadams.com
 rdbike.com
 rdcshop.com
@@ -41149,7 +41107,6 @@ s6y.in
 s7y.us
 sa-blacklist.stearns.org
 sa.bbc.co.uk
-sa.bbc.com
 sa.symcb.com
 saabstuff.com
 saadstore.com
@@ -42570,7 +42527,6 @@ sgkb.ch
 sgkb.de
 sgmfrance.fr
 sgp1.digitaloceanspaces.com
-sgqcvfjvr.onet.pl
 sgu.ca
 sh-op.de
 sh.st
@@ -45433,7 +45389,6 @@ ssl443.org
 sslbl.abuse.ch
 ssmailer.com
 ssnb.com
-ssp.rambler.ru
 sss.co.jp
 sssb.com
 ssstrains.com
@@ -48650,7 +48605,6 @@ tmearn.com
 tmi.me
 tmicheal.com
 tmrrfc.qc.ca
-tms-st.cdn.ngenix.net
 tms.airtelbroadband.in
 tmweb.ru
 tmz.com
