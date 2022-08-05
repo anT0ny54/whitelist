@@ -1032,7 +1032,6 @@ accounts.binance.com
 accounts.elephantjournal.com
 accounts.firefox.com
 accounts.google.com
-accountsettingsmobile-pa.googleapis.com
 accu-batt.de
 accu-doc.ch
 accu-shop.nl
@@ -1101,7 +1100,6 @@ acne-rosacea.co.uk
 acnursery.com
 acommunitybank.com
 acompli.net
-acompli.net$app=com.microsoft.office.outlook
 acorn-printing.co.uk
 acornantiquesexmoor.co.uk
 acornbooks.com
@@ -2558,7 +2556,6 @@ amazon.cn
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com$app=com.audible.application
 amazon.com.au
 amazon.com.br
 amazon.com.mx
@@ -2574,8 +2571,6 @@ amazon.sa
 amazon.se
 amazon.sg
 amazonaws.com
-amazonaws.com$app=com.tunnelbear.android
-amazonaws.com$app=ru.beeline.services
 amazonmoosey.com
 amazonvideo.com
 amazzzingcards.com
@@ -2911,7 +2906,6 @@ andrewsstarspage.com
 android.clients.google.com
 androidforums.com
 androidpay-users-pa.googleapis.com
-androidwearcloudsync-pa.googleapis.com
 androv-medical.com
 andyawtry.homestead.com
 andylees.com
@@ -3334,18 +3328,13 @@ api-game.meizu.com
 api-global.netflix.com
 api-godaddy.nd.nudatasecurity.com
 api-kino.vl.ru
-api-notify.dropbox.com
-api.accuweather.com
 api.adguard.com
 api.adguard.org
 api.apple-cloudkit.com
 api.apptentive.com
 api.bountysource.com
 api.box.com
-api.browser.yandex.ru$app=ru.yandex.disk
-api.cognitive.microsoft.com
 api.cortana.ai
-api.crunchyroll.com
 api.dynu.com
 api.facebook.com
 api.freeletics.com
@@ -3356,8 +3345,6 @@ api.ipify.org
 api.iplay.163.com
 api.kakao.com
 api.medium.com
-api.meetme.com
-api.mobile-api.ru$app=ru.mamba.client
 api.myteamspeak.com
 api.oplata.com
 api.peer5.com
@@ -3372,16 +3359,13 @@ api.tech26.de
 api.termius.com
 api.trello.com
 api.truckersmp.com
-api.tumblr.com
 api.tv.sohu.com
 api.twitter.com
 api.unsplash.com
 api.viber.com
-api.zomato.com$app=com.application.zomato
 apihockey.com
 apiman.fr
 apis.google.com
-apis.live.net
 apis.mail.yahoo.com
 apiservices.krxd.net
 apiwz.midukanshu.com
@@ -3410,7 +3394,6 @@ apotheke.de
 app-api.ted.com
 app.aave.com
 app.adjust.com
-app.adjust.com$app=com.azure.authenticator
 app.convertkit.com
 app.dharma.io
 app.getresponse.com
@@ -4253,7 +4236,6 @@ atlantisring.com
 atlantisweathergear.com
 atlantisworkwear.co.uk
 atlas-menswear.com
-atlas.samsung.com
 atlasaire.com
 atlasbank.com
 atlasfurnituresd.com
@@ -4318,7 +4300,6 @@ auction.fr
 audibank.de
 audible.com
 audible.de
-audible.de$app=com.audible.application
 audimated.com
 audio-ak-spotify-com.akamaized.net
 audio-ake.spotify.com.edgesuite.net
@@ -4746,7 +4727,6 @@ aztexhats.com
 aztlanbicycle.com
 aztradingpost.com
 azureedge.net
-azureedge.net$app=com.microsoft.office.outlook
 azwoodman.com
 b-api.facebook.com
 b-b-qshop.com
@@ -5493,6 +5473,7 @@ barclaycard.co.uk
 barclaycard.de
 barclaycardus.com
 barclays.co.uk
+barclays.de
 barclays.es
 barclays.fr
 barclays.in
@@ -11416,7 +11397,6 @@ clothingisland.com
 clothingwarehouse.com
 clothpeddler.com
 clothworks.com
-cloud-api.yandex.net$app=ru.yandex.disk
 cloud.google.com
 cloud.ovh.net
 cloudclusters.net
@@ -14202,7 +14182,6 @@ developer.android.com
 developer.twitter.com
 developers.facebook.com
 developers.google.com
-developers.google.com$app=com.symantec.mobilesecurity
 developers.medium.com
 developersniche.com
 deviantart.com
@@ -14399,7 +14378,6 @@ digiprintuk.com
 digishoping.com
 digistore.fr
 digital-camera-online.com
-digital-railcard.co.uk$app=com.raildeliverygroup.railcard
 digital-threads.com
 digital-trendz.com
 digital.noorbank.com
@@ -14763,7 +14741,6 @@ dl.dropbox.com
 dl.dropboxusercontent.com
 dl.free.fr
 dl.google.com
-dl.google.com$app=com.android.providers.media
 dl.javafx.com
 dl1.avgate.net
 dl2.avgate.net
@@ -14784,7 +14761,6 @@ dlb.homepage.dk
 dld.bz
 dldir1.qq.com
 dlink.me
-dls-udc.dqa.samsung.com$app=com.samsung.accessory.safiletransfer
 dltap.ca
 dlumberyard.com
 dlvr.it
@@ -15313,7 +15289,6 @@ download975.avast.com
 download977.avast.com
 download979.avast.com
 download99.avast.com
-downloader.disk.yandex.ru$app=ru.yandex.disk
 downloads.intercomcdn.com
 downloads.ipfire.org
 downloads.techrepublic.com
@@ -17881,7 +17856,6 @@ fabyboutique.com
 fac.com
 facebook.cn
 facebook.com
-facebook.com$app=com.instagram.android
 facebook.com.br
 facebook.fr
 facebook.net
@@ -19292,7 +19266,6 @@ fmsb4me.com
 fmsnutrition.com
 fmtc.co.uk
 fmub.com
-fna.fbcdn.net$app=com.facebook.katana
 fnac.com
 fnac.com.br
 fnb-columbia.com
@@ -19380,7 +19353,6 @@ fonseperformance.com
 fontanasports.com
 fonts.googleapis.com
 fonts.gstatic.com
-fonts.gstatic.com$app=com.google.android.gms
 food4pets.com
 foodcity.com
 foodireland.com
@@ -20769,7 +20741,6 @@ generacionx.es
 generalbanksupply.com
 generali.it
 generalleather.co.uk
-generalmotorscorporation.sc.omtrdc.net
 generalpants.com.au
 generalstorebd.com
 generalstoreofminnetonka.com
@@ -20980,7 +20951,6 @@ gghealth.com
 ggmedia.pl
 ggmgroundscare.com
 ggmusic.com
-ggpht.com$app=com.google.android.youtube
 ggsmark.com
 ggtake.com
 ggtc.org
@@ -21881,8 +21851,6 @@ google.co.za
 google.co.zm
 google.co.zw
 google.com
-google.com$app=com.vkontakte.android
-google.com$app=ru.yandex.disk
 google.com.af
 google.com.ag
 google.com.ai
@@ -22023,16 +21991,12 @@ google.vg
 google.vu
 google.ws
 googleapis.com
-googleapis.com$app=com.google.android.calendar
-googleapis.com$app=com.google.android.gms
-googleapis.com$app=com.google.android.syncadapters.calendar
 googleapis.l.google.com
 googlefashion.com
 googlehosted.l.googleusercontent.com
 googletagmanager.com
 googletagservices.com
 googleusercontent.com
-googleusercontent.com$app=com.google.android.youtube
 googlevideo.com
 gooo.to
 gooruze.com
@@ -22280,7 +22244,6 @@ grapevinemills.com
 grapevinetrading.com
 grapevinevideo.com
 graph.facebook.com
-graph.fbpigeon.com$app=com.facebook.katana
 graph.instagram.com
 graph.whatsapp.net
 graphicexpectations.com
@@ -22697,7 +22660,6 @@ guvy.com
 guyharveyshirts.com
 guyshop.com
 gvt1.com
-gvt1.com$app=com.google.android.gms
 gvt2.com
 gw.lt
 gwapi.zee5.com-v2.edgekey.net
@@ -29728,7 +29690,6 @@ m.1234567.com.cn
 m.cricbuzz.com
 m.digitaltrends.com
 m.facebook.com
-m.facebook.com$app=com.facebook.katana
 m.gitee.com
 m.gizmodo.com
 m.hotmail.com
@@ -30903,7 +30864,6 @@ media.fyxd2-1.fna.whatsapp.net
 media.fzty2-1.fna.whatsapp.net
 media.licdn.com
 media.sbs.com.au
-media.tumblr.com
 media.wired.com
 media365.fr
 mediaexpert.pl
@@ -31354,7 +31314,6 @@ microphonesolutions.com
 microprix.fr
 microsculptures.com
 microsoft.com
-microsoft.com$app=com.microsoft.office.outlook
 microsoftonline.com
 microupdates.cloudmark.com
 microvideox.com
@@ -32427,7 +32386,6 @@ mpva.com
 mql5.com
 mqrx.com
 mqtt-mini.facebook.com
-mqtt-mini.facebook.com$app=com.facebook.katana
 mr-backman.co.jp
 mr-bens.co.uk
 mr-bingo.com
@@ -32762,7 +32720,6 @@ my.tochka.com
 my03.com
 my09.com
 myacce.com
-myaccount.google.com$app=com.google.android.gms
 myaccount.payoneer.com
 myactivedirectory.com
 myagency.jp
@@ -34158,7 +34115,6 @@ northwindstamps.com
 northwoodsbank.com
 northwoodschairshop.com
 northwoodsguides.com
-norton.com$app=com.symantec.mobilesecurity
 nortonarmouries.com
 norulak.com
 norwalkfurnitureidea.com
@@ -35451,7 +35407,6 @@ otaku.com
 otaru-merry-go-round.com
 otaru1.jp
 otcsilver.com
-otf.msn.com
 otf.seb.se
 otflorist.com
 otherlandtoys.co.uk
@@ -35939,6 +35894,7 @@ paradiseproducts.com
 paradisestore.com
 paradox.co.uk
 paradoxpro.com
+paragonbank.co.uk
 paragonbankmn.com
 paragonmartialarts.co.uk
 paralibros.com
@@ -37473,7 +37429,6 @@ playnation.com
 playrecord.net
 playscapes.com
 playstation.com
-playstation.com$app=com.scee.psxandroid
 playstationrepair.co.uk
 playsystem-italy.com
 playtrade.de
@@ -37495,7 +37450,6 @@ plenos8.com
 plescia.com
 pletsexpress.com
 plex.tv
-plex.tv$app=com.plexapp.android
 plhces.com
 plime.com
 plimus.com
@@ -39185,7 +39139,6 @@ raik-berlin.de
 raika-erbes-buedesheim.de
 raikaritten.it
 rail-video.com
-railcard.co.uk$app=com.raildeliverygroup.railcard
 railcatsbaseball.com
 railgun.com
 railinnovations.com
@@ -44407,7 +44360,6 @@ sophisticatedhardware.com
 sophos.com
 sophosupd.com
 sophosupd.net
-sophosxl.net$app=com.sophos.smsec
 sopra-koblenz.de
 sopretty.com.au
 sorea.pl
@@ -45639,7 +45591,6 @@ static.licdn.com
 static.medium.com
 static.parastorage.com
 static.siteheart.com
-static.tumblr.com
 static.whatsapp.net
 static.wired.com
 static.wixstatic.com
@@ -45979,7 +45930,6 @@ store.fivestarlaser.com
 store.foxsports.com
 store.garskin.com
 store.greenpearle.com
-store.hispace.hicloud.com$app=com.huawei.gameassistant
 store.holtraditions.com
 store.honeyvillegrain.com
 store.indianfoodsco.com
@@ -47058,7 +47008,6 @@ tamperseal.com
 tampoo.com
 tamstreasuresonline.co.uk
 tamtam.chat
-tamtam.ok.ru
 tamugbookstore.com
 tanagersongfarm.com
 tanah-abang.com
@@ -47400,7 +47349,6 @@ tekuteku.net
 tel.nl
 telaropa.com
 tele-k.dk
-tele2.ru$app=ru.tele2.mytele2
 teleachat.fr
 telebank.eatpbank.ru
 telebank.forshtadt.ru
@@ -48812,7 +48760,6 @@ tripadvisor.com
 triplebyte.com
 tripleforce.com
 triplette.com
-trips-pa.googleapis.com
 tripup.com
 trisportcanada.com
 tristarbank.com
@@ -48875,7 +48822,6 @@ tumblr.com
 tunein.com
 tuneinn.co.uk
 tungstenrings.com
-tunnelbear.com$app=com.tunnelbear.android
 tupperware.com
 turanbank.az
 turboclip.com
@@ -49764,18 +49710,15 @@ vizvaz.com
 vjdesigns.com
 vjs.zencdn.net
 vk-cdn.net
-vk-cdn.net$app=com.vkontakte.android
 vk-portal.net
 vk.cc
 vk.com
-vk.com$app=com.vkontakte.android
 vk.link
 vk.ru
 vka.asn.au
 vkontakte.ru
 vks.com
 vkuservideo.net
-vkuservideo.net$app=com.vkontakte.android
 vl.am
 vlvb.de
 vnn-res.vgcloud.vn
@@ -50095,7 +50038,6 @@ vseinstrumenti.ru
 vsll.eu
 vsmerchandise.com
 vspk-neustadt.de
-vt.tumblr.com
 vt802.us
 vtb-direktbank.de
 vtb.az
@@ -50247,7 +50189,6 @@ wealthfront.com
 wealthsimple.com
 wearbuy.com
 weather.com
-weatherapi.market.xiaomi.com$app=com.miui.weather2
 weathertech.com
 web-blinds.com
 web-watch.de
@@ -50290,7 +50231,6 @@ webnode.page
 webok.net
 webredirect.org
 webscores.com
-websockets.platform.bing.com
 websterbank.com
 webtrading.onvista-bank.de
 webtrends.com
@@ -50383,8 +50323,6 @@ whatifsports.com
 whatisfencing.com
 whatsapp.com
 whatsapp.net
-whatsapp.net$app=com.whatsapp
-whatsapp.net$app=com.whatsapp.w4b
 whatsthebest-mattress.com
 wheelingnailers.com
 wherehouse.com
@@ -50746,7 +50684,6 @@ www.go.microsoft.com
 www.goodreads.com
 www.google-analytics.com
 www.google.com
-www.google.com$app=com.google.android.gms
 www.googleadservices.com
 www.googleapis.com
 www.gopjn.com
@@ -50984,7 +50921,6 @@ xurl.jp
 xurls.co
 xuta.me
 xvideos.com
-xx.fbcdn.net$app=com.facebook.katana
 xxuz.com
 xxxsports.com
 xxxy.biz
@@ -51070,7 +51006,6 @@ youtube-ui.l.google.com
 youtube.be
 youtube.co.uk
 youtube.com
-youtube.com$app=com.google.android.youtube
 youtube.de
 youtube.fr
 youtube.googleapis.com
@@ -51079,7 +51014,6 @@ youtube.pl
 youtubeeducation.com
 youtubegaming.com
 youtubei.googleapis.com
-youtubei.googleapis.com$app=com.google.android.youtube
 youtubekids.com
 yoyita.com
 yoyoplay.com
@@ -51088,7 +51022,6 @@ yque.com
 ysear.ch
 yt3.ggpht.com
 ytimg.com
-ytimg.com$app=com.google.android.youtube
 ytimg.l.google.com
 yuantabank.com.tw
 yuarel.com
