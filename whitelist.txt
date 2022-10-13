@@ -45495,6 +45495,7 @@ secure.ipsp.com
 secure.koopbank.com
 secure.latest.facebook.com
 secure.lcl.fr
+secure.livechatinc.com
 secure.lloydsbank.co.uk
 secure.logmein.com
 secure.meetup.com
