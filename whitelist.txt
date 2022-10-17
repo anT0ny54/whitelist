@@ -1711,6 +1711,7 @@ addlestonearmysurplus.co.uk
 addmore.com
 addnature.com
 addons-api.adguard.com
+addons.mozilla.org
 addons.prestashop.com
 addonsworld.co.uk
 addr.pk
