@@ -11177,6 +11177,7 @@ cdn.samsungcloudsolution.com
 cdn.shopifycloud.com
 cdn.siftscience.com
 cdn.sstatic.net
+cdn.statically.io
 cdn.staticaly.com
 cdn.stream.schibsted.media
 cdn.stroeerdigitalgroup.de
@@ -34931,7 +34932,6 @@ moxie-moms.com
 moxielane.com
 mozilla.com
 mozilla.net
-mozilla.org
 mozillazine.org
 mozoshoes.com
 mozziefree.com
@@ -51139,6 +51139,7 @@ telemag.net
 telemark-pyrenees.com
 telemarkdown.com
 telemarketing.gr
+telemetry.mozilla.org
 telenor.m.facebook.com
 telepathwords.research.microsoft.com
 telephone-card.net
