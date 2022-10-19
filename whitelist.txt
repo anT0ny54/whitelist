@@ -49150,6 +49150,7 @@ stathat.com
 static-ak.facebook.com
 static-asm.secure.skypeassets.com
 static-cl.xhcdn.com
+static-ite.paytmbank.com
 static-pepper.dealabs.com
 static-xl9-ssl.xunlei.com
 static.127777.com
