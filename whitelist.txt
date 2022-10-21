@@ -167,7 +167,6 @@
 *apiproxy-*.elb.amazonaws.com
 *beaconserver-*.elb.amazonaws.com
 *events-data.trafficmanager.net
-*events.apple.com
 *graph-video.facebook.com
 *graph.facebook.com
 *graph.instagram.com
@@ -8831,7 +8830,6 @@ bookpassage.com
 bookpeople.com
 bookplus.fi
 bookrepair.us
-books-analytics-events.apple.com
 books-analytics-events.news.apple-dns.net
 books-for-cooks.com
 books-on-art.com
@@ -14635,7 +14633,6 @@ cwebdirect.com
 cwimedical.com
 cwoodcrafts.com
 cwoodshop.com
-cws-*.conviva.com
 cws.conviva.com
 cwshop.ru
 cwt.ca
@@ -36853,7 +36850,6 @@ notasinc.com
 notebookakkus.de
 notebookinside.com
 notebookshop.sk
-notes-analytics-events.apple.com
 notes-analytics-events.news.apple-dns.net
 noteworthy.medium.com
 noteworthynotes.com
@@ -49467,7 +49463,6 @@ stockflaggen.de
 stockingsforyou.de
 stockmanbank.com
 stockroomsupply.com
-stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 stockseed.com
 stocktondupres.com
@@ -54424,7 +54419,6 @@ wealthbar.com
 wealthfront.com
 wealthsimple.com
 wearbuy.com
-weather-analytics-events.apple.com
 weather-analytics-events.news.apple-dns.net
 weather.com
 weatherapi.market.xiaomi.com
