@@ -16391,6 +16391,7 @@ dnl-us4.kaspersky-labs.com
 dnl-us5.kaspersky-labs.com
 dnl-us6.kaspersky-labs.com
 dnmelectronics.com
+dns.dnswarden.com
 dns.facebook.com
 dns.msftncsi.com
 dns03.facebook.com
