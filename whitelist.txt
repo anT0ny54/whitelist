@@ -87,6 +87,7 @@
 *.paypal.com
 *.paypal.map.fastly.net
 *.paypalobjects.com
+*.perimeterx.net
 *.pipe.aria.microsoft.com
 *.playstation.com
 *.playstation.com.edgekey.net
@@ -94,6 +95,7 @@
 *.playstation.net
 *.primevideo.com
 *.pv-cdn.net
+*.px-cloud.net
 *.qprod2.net
 *.qualtrics.com
 *.registerdisney.go.com
@@ -31693,6 +31695,7 @@ link-safe.net
 link.ac
 link.adtidy.org
 link.brightcove.com
+link.cc
 link.digitaladvisor.dk
 link.epicgames.com
 link.freshmail.mx
@@ -31981,6 +31984,7 @@ lovizaim.ru
 lowbucktools.com
 lowellcoop.com
 lowellspinners.com
+lowendbox.com
 lowes.com
 lowpricedstuff.com
 lp.incapsula.com
@@ -45937,6 +45941,7 @@ shakespearespeddler.com
 shaktiweb.com
 shakya-store.eigensite.nl
 shalas.com
+shalltry.com
 shamansmarket.com
 shampooman.de
 shamrockgardenflorist.com
@@ -49667,6 +49672,7 @@ straycats.pages.jp
 streamers.com
 streamplay.to
 streamprotect.net
+streamsb.net
 strechplastics.com
 streetboardz.com
 streetcar.com
