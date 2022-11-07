@@ -5422,6 +5422,7 @@ aviglatt.com
 avinos-wein.de
 avionic.dk
 avira-update.net
+avis-verifies.com
 avisca.com
 avisionforyou.com
 avitela.lt
@@ -12463,6 +12464,7 @@ click-n-order.net
 click.appcast.io
 click.cptrack.de
 click.dji.com
+click.e.change.org
 click.em.blizzard.com
 click.email.microsoftemail.com
 click.email.microsoftrewards.com
@@ -55093,6 +55095,7 @@ www.cdn.ravenjs.com
 www.cdn.w3schools.com
 www.cdn77.com
 www.cdp.rapidssl.com
+www.change.org.cdn.cloudflare.net
 www.channel9.msdn.com
 www.chocolatey.org
 www.choice.microsoft.com
