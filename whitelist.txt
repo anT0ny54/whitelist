@@ -33,8 +33,6 @@
 *.nextdns.io
 *.perimeterx.net
 *.px-cloud.net
-*.qprod2.net
-*.qualtrics.com
 *.registerdisney.go.com
 *.safebrowsing.apple
 *.scdn.co
@@ -67,10 +65,11 @@
 *graph.facebook.com
 *graph.instagram.com
 *microsoft.online-metrix.net
-*paypalxm.siteintercept.qualtrics.com
 *spotify-com.akamaized.net
 *v10.events.data.microsoft.com
+*v10.vortex-win.data.microsoft.com
 *v20.events.data.microsoft.com
+*v20.vortex-win.data.microsoft.com
 -rotation.de
 -sso.anbtr.com
 -traffic.com
@@ -31987,6 +31986,7 @@ m-config.ndtv.com.edgekey.net
 m-faces.com
 m-gruetzner.de
 m-i-u.com
+m-i.li
 m-ocha.co.jp
 m-relax.co.jp
 m-web.be
@@ -36162,7 +36162,6 @@ netvouz.com
 netwear.de
 network.bazaarvoice.com
 network6000.com
-networkbest.ru.com
 networkfurniture.com
 netyasan.com
 netzmarkt.de
@@ -37492,6 +37491,7 @@ oneangrygirl.net
 oneclickmoney.ru
 oneclient.sfx.ms
 oneclimate.net
+onecollector.cloudapp.aria.akadns.net
 onecount.net
 onederwear.com
 onedrive.live.com
@@ -55599,7 +55599,6 @@ xn--httenberger-bank-jzb.de
 xn--onlinebanking-httenberger-bank-jfd.de
 xnxx.com
 xoe.cz
-xp.apple.com
 xp1.gpsonextra.net
 xp1.mobilexpense.com
 xp2.gpsonextra.net
