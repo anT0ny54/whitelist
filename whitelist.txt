@@ -31,7 +31,13 @@
 *.mediatek.com
 *.messengerpeople.com
 *.metric.gstatic.com
+*.netflix.net
 *.nextdns.io
+*.nflxext.com
+*.nflximg.com
+*.nflximg.net
+*.nflxso.net
+*.nflxvideo.net
 *.perimeterx.net
 *.px-cloud.net
 *.registerdisney.go.com
@@ -2037,6 +2043,7 @@ affaridielettronica.it
 affectionately-yours.com
 affekt.cz
 affiliatefuture.com
+affiliatly.com
 affinbank.com.my
 affinity-diamond-engagement-rings.com
 affinityoflondon.com
@@ -14645,6 +14652,7 @@ d3football.com
 d3hoops.com
 d3l3lkinz3f56t.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
+d3tracking.rbc.com
 d75.eu
 d9hhrg4mnvzow.cloudfront.net
 da-dk.facebook.com
@@ -16420,8 +16428,6 @@ dogtree.co.jp
 dogvanes.com
 dogwise.com
 doh.asia.dnswarden.com
-doh.dns.apple.com
-doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dnswarden.com
 doh.eu.dnswarden.com
@@ -27265,6 +27271,8 @@ ichimonji.co.jp
 ichirocollectables.com
 ichiroya.com
 ichnaea-web.netflix.com
+ichnaea.*.origin.prodaa.netflix.com
+ichnaea.dradis.netflix.com
 ichnaea.netflix.com
 icicibank.ca
 icicibank.com
@@ -32827,11 +32835,7 @@ mashreqbank.com
 mashumashu.com
 masik.ru
 masimes.co.uk
-mask-api.icloud.com
-mask-h2.icloud.com
-mask.apple-dns.net
 mask.co.jp
-mask.icloud.com
 maskedexpressions.com
 maskerville.com
 maskitalia.com
@@ -36815,6 +36819,9 @@ nq.st
 nqdesigns.com
 nrarities.com
 nrcsports.com
+nrdp.nccp.*.origin.prodaa.netflix.com
+nrdp.nccp.dradis.netflix.com
+nrdp.nccp.netflix.com
 nrgball.com
 nrgsaver.com
 nrgsports.co.uk
