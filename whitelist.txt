@@ -5147,6 +5147,7 @@ auth-relay-pqj6ndd4jq-uc.a.run.app
 auth.be.sec.miui.com
 auth.firebase.google.com
 auth.gfx.ms
+auth.split.io
 authbe.sec.intl.miui.com
 authenticafrica.com
 authenticdesigns.net
@@ -10275,6 +10276,7 @@ canamsailcraft.com
 canarabank.com
 canarabank.in
 canarycosmetics.com
+canarymail.io
 canbox.ca
 canbuy.ca
 cancun-bikini.com
@@ -11074,6 +11076,7 @@ cdn.refersion.com
 cdn.samsungcloudsolution.com
 cdn.shopifycloud.com
 cdn.siftscience.com
+cdn.split.io
 cdn.sstatic.net
 cdn.statically.io
 cdn.staticaly.com
@@ -19212,6 +19215,7 @@ events.gfe.nvidia.com
 events.iap.unity3d.com
 events.mapbox.com
 events.release.narrativ.com
+events.split.io
 eventscores.com
 eventsflora.it
 everafterstore.com
@@ -32051,6 +32055,7 @@ m.pcbeta.com
 m.prod.facebook.com
 m.qpic.cn
 m.quantserve.com
+m.recipes.timesofindia.com
 m.techrepublic.com
 m.uczzd.cn
 m.w.ms
