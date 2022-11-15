@@ -56,6 +56,8 @@
 *.spartoo.co.uk
 *.spartoo.de
 *.spartoo.it
+*.spotify.com.akahost.net
+*.spotify.com.edgesuite.net
 *.teams.live.com
 *.teams.microsoft.com
 *.tipico.de
@@ -5008,6 +5010,7 @@ audible.de
 audid-api.taobao.com
 audiencecenter.google.com
 audimated.com
+audio*.spotify.com
 audio-ak-spotify-com.akamaized.net
 audio-ake.spotify.com.edgesuite.net
 audio-akp-spotify-com.akamaized.net
@@ -38216,6 +38219,7 @@ oui.cdn.optimizely.com
 oulpans.org
 oumi-jizake.com
 ouo.io
+oup.silverchair-cdn.com
 oupress.com
 oupsmodel.com
 our.intern.facebook.com
