@@ -1,3 +1,4 @@
+*-discord.gg
 *.*-msedge.net
 *.adguard.com
 *.admin-mcas.ms
@@ -15,6 +16,11 @@
 *.damoh.*.de
 *.dds.microsoft.com
 *.digicert.com
+*.discord.com
+*.discord.media
+*.discordapp.com
+*.discordapp.net
+*.discordstatus.com
 *.entrust.net
 *.export.yandex.ru
 *.ext-twitch.tv
@@ -38,6 +44,7 @@
 *.mediatek.com
 *.messengerpeople.com
 *.metric.gstatic.com
+*.msedge.net
 *.netflix.net
 *.nextdns.io
 *.nflxext.com
@@ -12817,6 +12824,7 @@ coconuttrader.com
 cocopari.com
 coda-music.co.uk
 coda.ru
+code-examples.net
 code.bildstatic.de
 code.createjs.com
 code.facebook.com
@@ -21614,7 +21622,6 @@ foxyhorseandhound.com
 foyles.co.uk
 fp-db.ds.microsoft.com
 fp.ip-api.com
-fp.msedge.net
 fp.tongdun.net
 fp1-kaw.ds.microsoft.com
 fp1-tk2-upl.ds.microsoft.com
