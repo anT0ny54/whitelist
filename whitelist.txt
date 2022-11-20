@@ -101,6 +101,7 @@
 *microsoft.online-metrix.net
 *ocsp.microsoft.com
 *spotify-com.akamaized.net
+*telemetry.*oraclecloud.com
 *v10.events.data.microsoft.com
 *v10.vortex-win.data.microsoft.com
 *v20.events.data.microsoft.com
