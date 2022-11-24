@@ -55,6 +55,8 @@
 *.live-video.net
 *.mdhcdn.com
 *.mediatek.com
+*.meituan.com
+*.meituan.net
 *.messengerpeople.com
 *.metric.gstatic.com
 *.msedge.net
@@ -4040,6 +4042,7 @@ app.e.sigsauer.com
 app.engage.jio.com
 app.facebook.com
 app.getresponse.com
+app.gitbook.com
 app.link
 app.migc.xiaomi.com
 app.onetrust.com
