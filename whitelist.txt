@@ -81,6 +81,7 @@
 *.searchnode.io
 *.searchnode.net
 *.services.microsoft.com
+*.seu.cleverreach.com
 *.share.yandex.ru
 *.sheerid.com
 *.smartscreen-prod.microsoft.com
@@ -10490,6 +10491,7 @@ capsplaza.com
 capsuledogdesign.com
 captainsbaseball.com
 captainscottage.com
+captcha-display.com
 captharry.com
 captify.mgr.consensu.org
 captive.apple.com
@@ -33543,6 +33545,8 @@ meinvz.net
 meipian7.cn
 meissenburgdesigns.com
 meissner.ch
+meituan.com
+meituan.net
 meitubeauty.meitudata.com
 melaneesylvester.com
 melange4women.com
@@ -45864,6 +45868,7 @@ settings.data.glbdns2.microsoft.com
 settlersbank.com
 settrade.com
 setup.airtelbroadband.in
+seu.cleverreach.com
 seunbook.co.kr
 sevensteeples.com
 seventenths.com
