@@ -81,7 +81,7 @@
 *.searchnode.io
 *.searchnode.net
 *.services.microsoft.com
-*.seu.cleverreach.com
+*.seu*.cleverreach.com
 *.share.yandex.ru
 *.sheerid.com
 *.smartscreen-prod.microsoft.com
@@ -848,6 +848,7 @@
 78san.com
 79-1139.com
 79.docs.google.com
+79423.analytics.edgekey.net
 7andy.jp
 7dayslive.de
 7eer.net
@@ -11134,6 +11135,7 @@ cdn.privacy-mgmt.com
 cdn.radiantmediatechs.com
 cdn.ravenjs.com
 cdn.rawgit.com
+cdn.reamaze.com
 cdn.rebuyengine.com
 cdn.refersion.com
 cdn.samsungcloudsolution.com
@@ -17476,6 +17478,7 @@ e18.whatsapp.net
 e19.whatsapp.net
 e2.whatsapp.net
 e20.whatsapp.net
+e2725.g.akamaiedge.net
 e3.whatsapp.net
 e3489.cd.akamaiedge.net
 e37.eu
@@ -32613,6 +32616,7 @@ manissero.it
 mankatomoondogs.com
 mankatosoccer.org
 mankind.co.uk
+manli.com
 manlyblades.com.au
 mannaskateboards.com
 mannis-laden.com
@@ -42795,6 +42799,8 @@ rcl.ink
 rclens.be
 rclens.fr
 rclensois.fr
+rcm-*.amazon.com
+rcm-*.amazon.de
 rcm-images.amazon.com
 rcm.amazon.com
 rcmart.com
