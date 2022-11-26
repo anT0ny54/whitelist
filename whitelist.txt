@@ -5517,6 +5517,7 @@ azureedge.net
 azwoodman.com
 b-api.facebook.com
 b-b-qshop.com
+b-cdn.net
 b-comb.com
 b-dazzle.com
 b-drop.com
@@ -28328,6 +28329,7 @@ iowastatebanks.com
 ip-adress.com
 ip-api.com
 ip-tracker.org
+ip.istatmenus.app
 ip2location.com
 ipaddress.com
 ipaintfish.com
@@ -45874,7 +45876,6 @@ settings.data.glbdns2.microsoft.com
 settlersbank.com
 settrade.com
 setup.airtelbroadband.in
-seu.cleverreach.com
 seunbook.co.kr
 sevensteeples.com
 seventenths.com
