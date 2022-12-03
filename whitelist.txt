@@ -1,5 +1,6 @@
 *-msedge.net
 *.a.klaviyo.com
+*.acdsystems.com
 *.adguard-dns.com
 *.adguard-dns.io
 *.adguard.com
