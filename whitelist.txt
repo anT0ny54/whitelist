@@ -1572,6 +1572,7 @@ ad.ag
 ad.atdmt.com
 ad.dep.no
 ad.doubleclick.net
+ad.dyntracker.de
 ad.hem.no
 ad.nl
 ad.nwi.jp
@@ -2351,6 +2352,7 @@ akaisilks.com
 akakce.com
 akam.no
 akamai-images-content.com
+akamai-san*.exacttarget.com.edgekey.net
 akamai.net
 akamaiedge.net
 akamaihd.net
@@ -16367,6 +16369,7 @@ dnl-us4.kaspersky-labs.com
 dnl-us5.kaspersky-labs.com
 dnl-us6.kaspersky-labs.com
 dnmelectronics.com
+dns.digitale-gesellschaft.ch
 dns.dnswarden.com
 dns.facebook.com
 dns.msftncsi.com
@@ -31591,6 +31594,8 @@ levo-bank.de
 lewebpedagogique.com
 lexingtonlegends.com
 leydier-armurerie.fr
+lforr.elaine-asp.de
+lforr.elainelfo.net
 lfp.fr
 lg.home.microsoft.com
 lgbbank.com
@@ -42800,6 +42805,7 @@ rcsiden.dk
 rctoys.com
 rcwilley.com
 rd.bizrate.com
+rd2szde.bizrate.com
 rdavidadams.com
 rdbike.com
 rdca.microsoft.com
@@ -44222,6 +44228,7 @@ ryze.com
 rzd pulsar.ebay
 rzd.ru
 rzeszow.tvp.pl
+s*.exacttarget.com.edgesuite.net
 s-35.hiimps.com
 s-41.predictvideo.com
 s-46.hiimps.com
@@ -52632,6 +52639,7 @@ track.effiliation.com
 track.nzz.ch
 track.productsup.io
 track.seadform.net
+track.shoparize.com
 track.ucas.com
 track.webgains.com
 track24.ru
@@ -52650,6 +52658,7 @@ tracking.dpd.de
 tracking.i2w.io
 tracking.magnetmail.net
 tracking.publicidees.com
+tracking.s24.com
 tracking.truthfinder.com
 trackingshipment.apple.com
 trade.paritem.com
@@ -55519,6 +55528,7 @@ www.package.chocolatey.org
 www.packages.chocolatey.org
 www.paperoak.com
 www.partner-ads.com
+www.partner-ads.com7eer.net
 www.payeasy.lk
 www.paypal.com
 www.paypal.com.edgekey.net
