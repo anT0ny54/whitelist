@@ -1,6 +1,7 @@
 *-msedge.net
 *.a.klaviyo.com
 *.acdsystems.com
+*.acsechocaptiveportal.com
 *.adguard-dns.com
 *.adguard-dns.io
 *.adguard.com
@@ -52350,6 +52351,7 @@ uba.org
 ubankal.com
 ubdp.com.ua
 uber.m.facebook.com
+uber.space
 ubmich.com
 uboc.com
 ubot.com.tw
