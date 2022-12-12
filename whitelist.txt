@@ -60,7 +60,6 @@
 *.ghcr.io
 *.gigya.com
 *.github.com
-*.github.io
 *.github.map.fastly.net
 *.githubapp.com
 *.githubassets.com
@@ -11061,6 +11060,7 @@ cdn-images-1.medium.com
 cdn-images-2.medium.com
 cdn-images.mailchimp.com
 cdn-kaltura-dscd.edgekey.net
+cdn-magiclinks.trackonomics.net
 cdn-mobile.api.pluto.tv
 cdn-noc.net
 cdn-origin01.techrepublic.com
