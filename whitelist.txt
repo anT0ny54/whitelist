@@ -28049,6 +28049,7 @@ ipc.facebook.com
 ipcheck.tmgrup.com.tr
 ipdata.co
 ipdusa.com
+ipe-pmt.prod.sabre.com
 iperstore.net
 ipfs.dweb.link
 ipfs.infura-ipfs.io
@@ -42427,7 +42428,6 @@ recoimports.com
 recollections.biz
 recommendationengine.googleapis.com
 recommender*.scarabresearch.com
-recommender.scarabresearch.com
 recordsbymail.com
 recoveryexpressions.com
 recreonics.com
