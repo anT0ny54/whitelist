@@ -10,6 +10,7 @@
 *.aiv-cdn.net
 *.aiv-cdn.net.c.footprint.net
 *.aiv-delivery.net
+*.amazon.com.be
 *.amazonvideo.com
 *.android.pool.ntp.org
 *.api.iris.microsoft.com
@@ -3083,6 +3084,7 @@ amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
+amazon.com.be
 amazon.com.br
 amazon.com.mx
 amazon.com.tr
@@ -25847,6 +25849,7 @@ hobuk.co.uk
 hochbettnetz.de
 hochzeits-shop.com
 hochzeitsschrank.de
+hockerty.de
 hockey-cricket.co.uk
 hockey-fights.com
 hockey.at
