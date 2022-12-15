@@ -3449,7 +3449,9 @@ andrewsgallery.com
 andrewsstarspage.com
 android-china.l.google.com
 android-market.l.google.com
+android-safebrowsing.google.com
 android-safebrowsing.googleapis.com
+android.apis.google.com
 android.clients.google.com
 android.l.google.com
 androidapi.mxplay.com
@@ -11607,6 +11609,7 @@ chashki-tarelki.ru
 chasseur.co.uk
 chassisshop.com
 chassoprix.com
+chat-*.facebook.com
 chat-e2ee-mini.facebook.com
 chat.cdn.whatsapp.net
 chat.facebook.com
@@ -27143,6 +27146,7 @@ id.cryptonator.com
 id.google.co.in
 id.google.com
 id.google.com.tr
+id.google.de
 id.gravatar.com
 id.pilet.ee
 id.santanderconsumer.no
@@ -34649,6 +34653,7 @@ mptoner.cz
 mpva.com
 mql5.com
 mqrx.com
+mqtt*.facebook.com
 mqtt-ig-p4.facebook.com
 mqtt-mini.facebook.com
 mqtt.c10r.facebook.com
@@ -34749,6 +34754,7 @@ msgin-regional-shv-01-rprn0.facebook.com
 msgin-regional.vvv.facebook.com
 msgin.t.facebook.com
 msgin.vvv.facebook.com
+msgr*.facebook.com
 msgs.jp
 msh-tablet.amazon.com
 msh-tablet.amazon.in
@@ -34792,6 +34798,7 @@ msysa.org
 mt.saservices.microsoft.com
 mt2.googleapis.com
 mt3.googleapis.com
+mtalk.google.com
 mtalk4.google.com
 mtb.dk
 mtb24.de
@@ -39797,6 +39804,7 @@ pjtra.com
 pkb24.ru
 pkcheadquarters.org
 pkdesignsonline.com
+pki-goog.l.google.com
 pkobp.pl
 pksqcamera.com
 pkw.pl
@@ -44458,6 +44466,7 @@ sbearstradingpost.com
 sber-bank.by
 sberatelstvi.cz
 sberbank-ast.ru
+sberbank.com
 sberbank.hu
 sberbank.kz
 sberbank.ru
@@ -49423,6 +49432,7 @@ sugarriveroutfitters.com
 sugartots.com
 suggestqueries.google.com
 suggestqueries.googleapis.com
+suggestqueries.l.google.com
 suggies.com
 suiso.jp
 suissewatchservice.com
@@ -49633,6 +49643,7 @@ supertrapp.com
 superu-audincourt.com
 supervaluevitamins.com
 superyelper.com
+supl.google.com
 suplay.com
 supplement-warehouse.co.uk
 supplementstogo.com
