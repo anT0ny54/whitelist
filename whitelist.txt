@@ -3924,6 +3924,7 @@ api-global.netflix.com
 api-godaddy.nd.nudatasecurity.com
 api-hphp-05-01-ash1.facebook.com
 api-hphp-05-01-sf2p.facebook.com
+api-mainnet.pool.space
 api-read.facebook.com
 api-tv.spotify.com
 api-unionid.meituan.com
@@ -27180,6 +27181,12 @@ id.santanderconsumer.no
 id.sin.cb3.glbdns.microsoft.com
 id.smt.docomo.ne.jp
 id.sonyentertainmentnetwork.com
+id.yandex.by
+id.yandex.com
+id.yandex.com.tr
+id.yandex.kz
+id.yandex.ru
+id.yandex.ua
 ida.facebook.com
 ida3d.com
 idahoantlerart.biz
@@ -33451,6 +33458,7 @@ metok.sys.miui.com
 metricmechanic.com
 metricool.com
 metrics.foxnews.com
+metrics.lidl.com
 metrics.plex.tv
 metrics.torproject.org
 metrics.webapps.microsoft.com
