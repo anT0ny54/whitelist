@@ -34121,6 +34121,7 @@ mobileplace.co.uk
 mobileplaza.nl
 mobilepower.com.au
 mobiles.co.uk
+mobilesdk-*.kampyle.com
 mobilesdk-pa.clients6.google.com
 mobilesdot.co.uk
 mobilestunter.com
@@ -36368,6 +36369,7 @@ nofriends.com
 noggintops.com
 nohoprideandjoy.com
 noideer.com.au
+noip.at
 nok.de
 nokia.m.facebook.com
 nokomiscollectibles.com
