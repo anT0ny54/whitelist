@@ -3950,6 +3950,7 @@ api.b.hatena.ne.jp
 api.bam-x.com
 api.bazaarvoice.com
 api.bountysource.com
+api.brightcove.com
 api.bufferapp.com
 api.c99.nl
 api.chat.xiaomi.net
@@ -24376,6 +24377,7 @@ growerssolution.com
 growersupply.com
 growingkidssale.com
 growingtulips.com
+growth-pa.googleapis.com
 grubco.com
 gruberphotographers.com
 gruenemarketdays.com
@@ -48855,6 +48857,7 @@ static.fontawesome.com
 static.gmlinteractive.com
 static.hotjar.com
 static.hubspot.com
+static.iterable.com
 static.jvc.gg
 static.kickstarter.com
 static.klaviyo.com
