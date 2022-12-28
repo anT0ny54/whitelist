@@ -61,13 +61,7 @@
 *.gc.apple.com
 *.gc.fe.apple-dns.net
 *.geotrust.com
-*.ghcr.io
 *.gigya.com
-*.github.com
-*.github.map.fastly.net
-*.githubapp.com
-*.githubassets.com
-*.gitlab.com
 *.googlemail.com
 *.googletagmanager.com
 *.googlevideo.com
@@ -107,7 +101,6 @@
 *.passport.yandex.ru
 *.performfeeds.com
 *.perimeterx.net
-*.playstation.com.edgekey.net
 *.playstation.net.edgekey88.net
 *.primevideo.com
 *.push.apple.com
@@ -131,7 +124,6 @@
 *.smartscreen-prod.microsoft.com
 *.smoot.apple.com
 *.sonycoment.loris-e.llnwd.net
-*.sonyentertainmentnetwork.com
 *.sonyjpnpsg-1.hs.llnwd.net
 *.sp-prod.net
 *.spartoo.co.uk
@@ -177,7 +169,6 @@
 *.videorolls.row.aiv-cdn.net
 *.wdtinc.com
 *.www-googletagmanager.l.google.com
-*.xbox.com
 *.xboxab.com
 *.xboxab.net
 *.xboxlive.com
@@ -4003,6 +3994,7 @@ api.onedrive.com
 api.opinary.com
 api.oplata.com
 api.peer5.com
+api.playstation.com.edgekey.net
 api.pluto.tv
 api.privacy.schibsted.com
 api.pushbullet.com
@@ -27579,6 +27571,7 @@ immortal.co.uk
 imoneybank.ru
 imoose.com
 imop.com
+imore.com
 imp.appledaily.com
 imp.co.il
 impact-ad.jp
@@ -50825,6 +50818,7 @@ telefon.de
 telefoncum.com
 telefonica.m.facebook.com
 telegift.com.my
+telegra.ph
 telegram.me
 telegram.org
 telehelppublications.com
