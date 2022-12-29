@@ -180,6 +180,7 @@
 *api.*.microsoft.com
 *graph-video.facebook.com
 *graph.facebook.com
+*graph.fbpigeon.com
 *graph.instagram.com
 *microsoft.online-metrix.net
 *ocsp.microsoft.com
@@ -1171,6 +1172,7 @@ aax-*-retail-direct.amazon.com
 aax-beta.integ.amazon.com
 aax-eu.amazon.ae
 aax-eu.amazon.co.uk
+aax-eu.amazon.com
 aax-eu.amazon.com.tr
 aax-eu.amazon.de
 aax-eu.amazon.es
@@ -1181,6 +1183,7 @@ aax-eu.amazon.nl
 aax-eu.amazon.sa
 aax-eu.amazon.se
 aax-fe.amazon.co.jp
+aax-fe.amazon.com
 aax-fe.amazon.com.au
 aax-fe.amazon.sg
 aax-us-east-test4.amazon-adsystem.com
@@ -48566,6 +48569,7 @@ stackpath.com
 stackpathdns.com
 stacks.com
 stacksandstacks.com
+stacksocial.com
 stacyadams.com
 stacyslockerroom.com
 stacysshabbyshoppe.com
