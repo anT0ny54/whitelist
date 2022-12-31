@@ -125,6 +125,7 @@
 *.seu*.cleverreach.com
 *.share.yandex.ru
 *.sheerid.com
+*.sheerid.net
 *.smartscreen-prod.microsoft.com
 *.smoot.apple.com
 *.sonycoment.loris-e.llnwd.net
