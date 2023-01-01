@@ -171,6 +171,7 @@
 *.vercel-dns.com
 *.verisign.net
 *.video-api.arcpublishing.com
+*.videoland.com
 *.videorolls.row.aiv-cdn.net
 *.wdtinc.com
 *.www-googletagmanager.l.google.com
@@ -466,6 +467,7 @@
 1ink.com
 1irongolf.com
 1jewelry.com
+1kinobig.ru
 1link.in
 1liquidators.com
 1logcabinfurniture.com
@@ -1751,6 +1753,7 @@ adj.st
 adjix.com
 adlabel.net
 adlatus.net
+adlermode.com
 adlersframing.com
 adli.pw
 adm.10jqka.com.cn
@@ -2300,6 +2303,7 @@ aikidou.com
 aikikai.nl
 aikishop.com
 aikman.com
+aikq.de
 ailita.ru
 ailsas.com
 aimcraft.com
@@ -2364,6 +2368,7 @@ airstrikeinc.com
 airstuff.com
 airtel.in
 airtimebattery.com
+airydress.com
 ais.snbank.ru
 aiseet.atianqi.com
 aisle9.com
@@ -10319,6 +10324,7 @@ camocarpet.com
 camodelkin.ru
 camomille.pl
 camonet.nl
+camopedia.org
 camoshop.net.tripod.com
 campaign.adobe.com
 campaignmanager.netdirector.co.uk
@@ -11018,6 +11024,7 @@ cbnm.com
 cbo-oman.org
 cboktulsa.com
 cbomc.com
+cbox.ws
 cbperformance.com
 cbportal.commerzbank.com
 cbq.com.qa
@@ -12524,6 +12531,7 @@ clickbathrooms.co.uk
 clickbd.com
 clickcash.onelink.me
 clickdimensions.com
+clickerheroes.com
 clicket.com
 clickgamer.com
 clickgolf.co.uk
@@ -45662,6 +45670,7 @@ sharepoint2010.microsoft.com
 sharesight.com
 sharetabs.com
 sharethemusic.com
+sharkoon.com
 sharkspage.com
 sharksteeth.com
 sharktested.com
@@ -53252,6 +53261,7 @@ vi-vn.facebook.com
 vi.gravatar.com
 viacom.m.facebook.com
 viadeo.com
+viagogo.de
 viarnd.112.2o7.net
 viatrading.com
 vibank.org
