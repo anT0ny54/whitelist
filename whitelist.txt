@@ -132,8 +132,11 @@
 *.sonyjpnpsg-1.hs.llnwd.net
 *.sp-prod.net
 *.spartoo.co.uk
+*.spartoo.com
 *.spartoo.de
 *.spartoo.it
+*.spartoo.pl
+*.spartoo.pt
 *.spotify.com.akahost.net
 *.spotify.com.edgesuite.net
 *.steam-chat.com
@@ -4126,6 +4129,7 @@ apparel.com
 apparelcandy.com
 appareldeals.com
 appboot.netflix.com
+appboy-images.com
 appcloud.ironbeast.io
 appealinglingerie.com
 appelts.ca
@@ -22622,6 +22626,7 @@ geoip.tnt-ea.com
 geojs.io
 geoladen.com
 geolite.com
+geolocation.onetrust.com
 geologicresources.com
 geology-books.com
 geolshop.com
@@ -31263,6 +31268,7 @@ le-jardin-de-catherine.com
 le10sport.com
 leaguelineup.com
 leagueoflegends.com
+leakix.net
 learn-public.trafficmanager.net
 learn.cisecurity.org
 learn.elephantjournal.com
@@ -40534,6 +40540,7 @@ postmortembooks.com
 postoptics.co.uk
 postorderboekhandel.nl
 postpack.co.uk
+postshare.co.kr
 postsign.docusign.com
 postwish.com
 posypower.com.au
@@ -47983,6 +47990,8 @@ spartoo.co.uk
 spartoo.com
 spartoo.de
 spartoo.it
+spartoo.pl
+spartoo.pt
 spasandmore.com
 spasmodica.com
 spastuff.com
@@ -53294,6 +53303,7 @@ videocdn-sbs.akamaized.net
 videocopilot.net
 videogamefigures.com
 videolan.org
+videoland.com
 videolearning.com
 videoplaza.tv
 videoplus.vo.llnwd.net
