@@ -6,6 +6,7 @@
 *.adguard-dns.io
 *.adguard.com
 *.admin-mcas.ms
+*.aerisapi.com
 *.aimon.applicationinsights.io
 *.aiv-cdn.net
 *.aiv-cdn.net.c.footprint.net
@@ -46920,6 +46921,7 @@ sl.gravatar.com
 sl57.ru
 slaapcomfort-center.be
 slack.com
+slackb.com
 slacktime.com
 sladkiy-son.ru
 slalomskateboarder.com
