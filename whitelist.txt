@@ -15065,6 +15065,7 @@ data.sec.miui.com
 data.tvdownload.microsoft.com
 data.video.iqiyi.com
 datadoghq-browser-agent.com
+datadoghq.eu
 datadome.co
 datafilehost.com
 dataflow.clients6.google.com
@@ -27485,6 +27486,7 @@ imagein-hk.com
 imagemakersart.com
 imagerylab.com
 imageryproducts.com
+images-amazon.com
 images-cn.ssl-images-amazon.com
 images-ea.weather.microsoft.com
 images-eu.ssl-images-amazon.com
@@ -52733,6 +52735,7 @@ uploads.code.google.com
 uploadsj.clients.google.com
 upma.org
 upmtb.com
+upoint.id
 uppercutsports.com
 upperdeckstore.com
 ups.ksmobile.net
