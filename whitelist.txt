@@ -3411,10 +3411,9 @@ anadolufinans.com.tr
 anaheimpatio.com
 anakmama.com
 analitik.edevlet.gov.tr
+analytics*-pa.googleapis.com
 analytics.barnebys.sh
 analytics.twitter.com
-analyticsinsights-pa.googleapis.com
-analyticssearch-pa.googleapis.com
 analyzersoftware.com
 anamorfose.be
 anandacal.com
@@ -11674,7 +11673,7 @@ chashki-tarelki.ru
 chasseur.co.uk
 chassisshop.com
 chassoprix.com
-chat-*.facebook.com
+chat*.facebook.com
 chat-dl.google.com
 chat-e2ee-mini.facebook.com
 chat.cdn.whatsapp.net
@@ -14300,7 +14299,7 @@ crutchfield.com
 crwoodcrafters.com
 crybabyranch.com
 cryoflesh.com
-cryptauthdevicesync.googleapis.com
+cryptauth*.googleapis.com
 cryptauthenrollment.googleapis.com
 cryptedudragon.com
 cryptonator.com
@@ -18592,9 +18591,8 @@ encinoll.com
 encoretickets.com
 encre-hermane.fr
 encre.com
-encrypted-tbn*.gstatic.com
+encrypted-*.gstatic.com
 encrypted-tbn0.gstatic.com
-encrypted-vtbn*.gstatic.com
 endlesscreations-laser.com
 endlesspurseabilities.com
 endlesssummerlifestyles.com
@@ -19443,7 +19441,7 @@ exteradirect.co.uk
 exterior-accents.com
 extern.c10r.facebook.com
 extern.facebook.com
-external-*.xx.fbcdn.net
+external*.xx.fbcdn.net
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
 external-lhr10-1.xx.fbcdn.net
@@ -34186,9 +34184,8 @@ mobilegw.alipay.cn
 mobilegw.alipay.com
 mobilelog.kugou.com
 mobilemania.ch
-mobilemaps-pa-gz.googleapis.com
+mobilemaps*.googleapis.com
 mobilemaps.clients.google.com
-mobilemaps.googleapis.com
 mobilemoms.com
 mobilenetworkscoring-pa.googleapis.com
 mobileocean.ru
@@ -36918,8 +36915,8 @@ oasisllc.com
 oasisplace.com
 oatesspecialties.com
 oatmealsavage.com
+oauth*.googleapis.com
 oauth.reddit.com
-oauth2.googleapis.com
 oaxacafinecarvings.com
 oaxacanwoodcarving.com
 oba.com
@@ -39091,6 +39088,7 @@ pentenrieder.com
 penworksplus.com
 penyaseeds.com
 peonynursery.com
+people*.googleapis.com
 people-pa.googleapis.com
 people.com
 people.facebook.com
@@ -39105,7 +39103,6 @@ peoplesexchangebk.com
 peoplesflowers.com
 peoplesgraceville.com
 peoplesnationalbank.com
-peoplestack-pa.googleapis.com
 pepegarden.co.uk
 pepourlavie.eklablog.com
 pepper-passion.com
@@ -40068,7 +40065,7 @@ plauenerspitze-shop.de
 plausible.io
 plavniki.com.ua
 plaxo.com
-play-fe.googleapis.com
+play*.googleapis.com
 play-houses.com
 play-sport.com
 play.aniview.com
@@ -44861,7 +44858,7 @@ scoins.com
 scollon.com
 scone-pa.clients6.google.com
 sconex.com
-scontent-*.xx.fbcdn.net
+scontent*.xx.fbcdn.net
 scontent-iad3-1.cdninstagram.com
 scontent-lhr3-1.xx.fbcdn.net
 scontent-nrt1-1.xx.fbcdn.net
@@ -49573,9 +49570,9 @@ sugarpetals.com
 sugarplumstitches.com
 sugarriveroutfitters.com
 sugartots.com
+suggestqueries*.google.com
 suggestqueries.google.com
 suggestqueries.googleapis.com
-suggestqueries.l.google.com
 suggies.com
 suiso.jp
 suissewatchservice.com
@@ -52158,10 +52155,10 @@ toolking.com
 toolman.co.uk
 toolpeddler.com
 toolprice.com
+tools*.google.com
 tools-china.l.google.com
 tools-plus.com
 tools.facebook.com
-tools.google.com
 tools.l.google.com
 tools.pingdom.com
 toolspot.co.uk
