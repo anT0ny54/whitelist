@@ -18,8 +18,7 @@
 *.apps.apple.com
 *.arc.epoq.de
 *.asynchronousmessaging.dashboard.co.uk
-*.atv-ext-*.amazon.com
-*.atv-ext.amazon.com
+*.atv-ext*.amazon.com
 *.atv-ps.amazon.com
 *.bonialconnect.com
 *.c10r.facebook.com
@@ -106,12 +105,10 @@
 *.nvgs.nvidia.cn
 *.passport.yandex.ru
 *.performfeeds.com
-*.perimeterx.net
 *.playstation.net.edgekey88.net
 *.primevideo.com
 *.push.apple.com
 *.pv-cdn.net
-*.px-cloud.net
 *.registerdisney.go.com
 *.s.team
 *.safebrowsing.apple
@@ -4910,7 +4907,9 @@ assets.minutemediacdn.com
 assets.mmsrg.com
 assets.nflxext.com
 assets.pinterest.com
+assets.rbl.ms
 assets.realclear.com
+assets.rebelmouse.io
 assets.sitescdn.net
 assets.ubuntu.com
 assets.zendesk.com
@@ -11185,7 +11184,6 @@ cdn.mxpnl.com
 cdn.onenote.net
 cdn.onenote.net.edgekey.net
 cdn.onesignal.com
-cdn.opecloud.com
 cdn.optimizely.com
 cdn.otstatic.com
 cdn.pcbeta.attachment.inimc.com
@@ -39176,7 +39174,6 @@ perfumesdirect.net
 perfumeshopping.com
 perifericospc.com
 perilcane.it
-perimeterx.net
 periodfeatures.net
 periscope.tv
 periwinklesonmarcoisland.com
@@ -41266,6 +41263,7 @@ pubstuffusa.com
 pubsub.googleapis.com
 pubsub.plex.bz
 pubsub.plex.tv
+puc-cdn.exponea.com
 pucca.co.uk
 puchibag.com
 puckmonkey.com
@@ -41429,7 +41427,6 @@ pwgazette.com
 pwponline.com
 pwr-sports.com
 pwrfc.org
-px-cloud.net
 px.a8.net
 pxf.io
 pxlme.me
@@ -46349,6 +46346,7 @@ sierratradingpost.com
 sierravistamall.com
 sies.co.jp
 sievers-hahn-shop.de
+sift.com
 sigarenverkoop.nl
 sigges.com
 siggihats.co.uk
@@ -52387,6 +52385,7 @@ trulia.com
 trulyhuge.com
 trunc.it
 trunkstable.facebook.com
+trust-provider.com
 trust.ru
 trust.zone
 trust1bank.com
