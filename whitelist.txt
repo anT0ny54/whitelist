@@ -111,6 +111,8 @@
 *.xp.apple.com
 *.zopim.com
 *api.*.microsoft.com
+*graph-fallback.facebook.com
+*graph-fallback.instagram.com
 *graph-video.facebook.com
 *graph.facebook.com
 *graph.fbpigeon.com
@@ -33663,6 +33665,7 @@ mindlogic.com
 mindmodulations.com
 minds.com
 mindstormphotos.com
+mindvalley.com
 minebilder.no
 minecraft.net
 minecraftservices.com
