@@ -9921,7 +9921,6 @@ c-dtags.com
 c-o.in
 c-p-p.co.uk
 c-und-d.de
-c.amazon-adsystem.com
 c.apple.com
 c.betrad.com
 c.bing.com
