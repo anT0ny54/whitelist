@@ -58,6 +58,7 @@
 *.meituan.net
 *.messengerpeople.com
 *.metric.gstatic.com
+*.micardapi.micloud.xiaomi.net
 *.microsoftstoreemail.com
 *.msdp1.com
 *.msftconnecttest.com
@@ -68,7 +69,9 @@
 *.nexusrules.officeapps.live.com
 *.ntp-fireos.com
 *.passport.yandex.ru
+*.pdc.micloud.xiaomi.net
 *.performfeeds.com
+*.phonecallapi.micloud.xiaomi.net
 *.push.apple.com
 *.registerdisney.go.com
 *.relay-client-c03.iocnt.net
@@ -87,6 +90,7 @@
 *.sheerid.net
 *.smartscreen-prod.microsoft.com
 *.smoot.apple.com
+*.smsapi.micloud.xiaomi.net
 *.sp-prod.net
 *.spartoo.co.uk
 *.spartoo.com
@@ -27042,6 +27046,7 @@ icha.org
 ichimonji.co.jp
 ichirocollectables.com
 ichiroya.com
+ichnaea*.netflix.com
 ichnaea-web.netflix.com
 ichnaea.netflix.com
 icicibank.ca
