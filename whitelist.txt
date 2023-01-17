@@ -9,11 +9,13 @@
 *.aimon.applicationinsights.io
 *.api.brightcove.com
 *.api.iris.microsoft.com
+*.app.link
 *.apps.apple.com
 *.arc.epoq.de
 *.asynchronousmessaging.dashboard.co.uk
 *.bonialconnect.com
 *.cas.ms
+*.cc-api-data.adobe.io
 *.cdn-apple.com
 *.cdn-noc.net
 *.cdn.optimizely.com
@@ -9945,6 +9947,7 @@ c.youdao.com
 c.youtube.com
 c0.ifengimg.com
 c0.wp.com
+c00.adobe.com
 c1.biz
 c1.ch1.adcenterapi.microsoft.com
 c1.microsoft.com
@@ -10957,6 +10960,7 @@ cbtks.com
 cbtwaco.com
 cbug.cc
 cbwc.com
+cc-api-data.adobe.io
 cc-dt.com
 cc.cc
 cc.sys.miui.com
@@ -52361,6 +52365,7 @@ uksouth.cloudapp.azure.com
 ukwest.cloudapp.azure.com
 ul.royal-bank.ru
 ulhockey.com
+ulink.adjust.com
 ullapopken.com
 ulmt.in
 ultilinks.com
