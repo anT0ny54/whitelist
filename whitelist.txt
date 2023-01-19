@@ -7,6 +7,7 @@
 *.admin-mcas.ms
 *.aerisapi.com
 *.aimon.applicationinsights.io
+*.api.b.hatena.ne.jp
 *.api.brightcove.com
 *.api.iris.microsoft.com
 *.app.link
