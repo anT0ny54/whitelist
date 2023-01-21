@@ -15123,6 +15123,7 @@ dcode.support.microsoft.com
 dcodews.partners.extranet.microsoft.com
 dcothai.com
 dcprodirect.com
+dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com
 dcs-vod.apis.anvato.net
 dcs.ccp.microsoft.com
 dcsat.com
@@ -17679,6 +17680,7 @@ edge-atlas-shv-13-frc1.facebook.com
 edge-atlas-shv-17-prn1.facebook.com
 edge-atlas-shv-18-prn1.facebook.com
 edge-chat.facebook.com
+edge-irl1.demdex.net
 edge-liverail-shv-01-ams2.facebook.com
 edge-liverail-shv-01-ams3.facebook.com
 edge-liverail-shv-01-ash5.facebook.com
@@ -23158,6 +23160,7 @@ go.nordvpn.net
 go.oaktreecapital.com
 go.onelink.me
 go.pardot.com
+go.powunity.com
 go.redirectingat.com
 go.skimresources.com
 go.trafficrouter.io
@@ -24259,6 +24262,7 @@ gsdecornmore.com
 gseshop.jp
 gsgold.com
 gslamps.com
+gslb-2.demdex.net
 gslb.spotify.com
 gsm-tools.de
 gsm.no
@@ -32484,7 +32488,7 @@ marythefairy.at
 marywardbooks.com
 marywheelerdesigns.com
 marzipanworld.com
-mas-ext*.amazon.com
+mas-*.amazon.com
 mas-ext.amazon.com
 mas-sdk.amazon.com
 mas-ssr.amazon.com
@@ -49138,6 +49142,7 @@ styloweprezenty.pl
 styluscentral.com
 su.pr
 suavecito.com
+subarumysubaruappproduction.112.2o7.net
 subastacr.com
 sube.garantibbva.com.tr
 sube.halkbank.com.tr
@@ -49755,6 +49760,7 @@ swiatwloczki.pl
 swiatzegarkow.pl
 swiftcourrier.com
 swik.net
+swile.co
 swim-n-fit.com
 swim.bc.ca
 swimandsports.com
