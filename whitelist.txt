@@ -95,6 +95,7 @@
 *.smartscreen-prod.microsoft.com
 *.smoot.apple.com
 *.smsapi.micloud.xiaomi.net
+*.snap.com
 *.sp-prod.net
 *.spartoo.co.uk
 *.spartoo.com
@@ -2208,6 +2209,7 @@ aguagu.ru
 agueybana.net
 ah-moda.com
 aha-ltd.co.uk
+ahacdn.me
 aharvesthouse.com
 ahava.com
 ahd.ruten.com.tw
@@ -17829,6 +17831,7 @@ edge-z-p3-shv-01-arn2.facebook.com
 edge.api.brightcove.com
 edge.quantserve.com
 edge.yunjiasu.com
+edgeme.sh
 edgeracingconverters.com
 edgeray-origin-shv-05-prn2.facebook.com
 edgeray-origin-shv-07-lla1.facebook.com
@@ -49077,6 +49080,7 @@ stuckonyou.com.au
 student.com
 student.facebook.com
 studentbookworld.com
+studenti.it
 studentlistings.com
 studentloftbed.com
 studentmarket.com
@@ -50199,6 +50203,7 @@ tarafinejewelry.com
 taraschoice.co.uk
 tarawa.com
 target.aws.amazon.com
+target.clickfunnels.com
 target.com
 target.facebook.com
 target.georiot.com
