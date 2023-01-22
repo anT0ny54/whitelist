@@ -105,7 +105,6 @@
 *.spartoo.pt
 *.teams.live.com
 *.teams.microsoft.com
-*.tivan.naver.com
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
 *.twibbonize.com.cdn.ezoic.net
@@ -33960,6 +33959,7 @@ mobile.beta.facebook.com
 mobile.directory.google.com
 mobile.drive.google.com
 mobile.events.data.microsoft.com
+mobile.events.data.trafficmanager.net
 mobile.exlook.microsoft.com
 mobile.facebook.com
 mobile.itsmy.com
