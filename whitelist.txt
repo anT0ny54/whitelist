@@ -472,6 +472,7 @@
 1url.com
 1url.cz
 1wb2.net
+1weather.onelouder.com
 1worldgift.com
 1worldsarongs.com
 1wrd.org
@@ -27057,7 +27058,6 @@ id.cryptonator.com
 id.google.co.in
 id.google.com
 id.google.com.tr
-id.google.de
 id.gravatar.com
 id.pilet.ee
 id.santanderconsumer.no
@@ -34984,6 +34984,7 @@ my.tochka.com
 my09.com
 myabandonware.com
 myacce.com
+myaccount.nytimes.com
 myaccount.payoneer.com
 myactivity.google.com
 myad.vn
@@ -40437,6 +40438,7 @@ ppst.me
 ppt.cc
 ppt.li
 ppurifier.game.xiaomi.com
+ppurl.io
 pr-youhin.co.jp
 pr0gramm.com
 practical-plastics.com
@@ -55020,6 +55022,7 @@ z-p42-instagram.c10r.facebook.com
 z-upload.facebook.com
 z.c10r.facebook.com
 z.cdn.turner.com
+z.cdp-dev.cnn.com
 z.facebook.com
 z.tochka.com
 z9.fr
