@@ -15,6 +15,7 @@
 *.arc.epoq.de
 *.asynchronousmessaging.dashboard.co.uk
 *.aylanetworks.com
+*.boldchat.com
 *.bonialconnect.com
 *.cas.ms
 *.cc-api-data.adobe.io
@@ -31527,6 +31528,7 @@ logisyscomputer.com
 logjamelectronics.com
 logmein-gateway.com
 logmein.com
+logo.clearbit.com
 logobuilder.mspartner.microsoft.com
 logosoftwear.com
 logotime.com
@@ -35011,6 +35013,8 @@ mybank.fortebank.com
 mybank.nationstrust.com
 mybannermaker.com
 mybarong.com
+mybbc-analytics.files.bbci.co.uk
+mybbc-analytics.files.bbci.co.uk.edgekey.net
 mybeachtowel.com
 mybeeper.com
 mybellyring.com
@@ -51586,6 +51590,7 @@ threshersbaseball.com
 thriftpuzzle.facebook.com
 throwblanket.com
 thsbank.com
+thumb.highdeliveryscdn.com
 thumbs-015.externulls.com
 thumbs.videopress.com
 thumbs2.imgbox.com
