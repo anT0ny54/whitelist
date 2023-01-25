@@ -17082,6 +17082,7 @@ dyo.gs
 dyreudstyr.dk
 dyskretna.pl
 dyson.co.uk
+dyson.nanorep.co
 dysonpartsdirect.co.uk
 dywany.net
 dyztilz.com
@@ -31734,9 +31735,13 @@ m.w.ms
 m.weeklyad.target.com
 m.youtube.com
 m1.daumcdn.net
+m1.fwmrm.net
+m1.fwmrm.net-v1.edgesuite.net
 m1finance.com
 m1p.fr
 m2.facebook.com
+m2.fwmrm.net
+m2.fwmrm.net-v1.edgesuite.net
 m24.comertbank.md
 m2lcollection.com
 m2mbank.ru
@@ -32126,6 +32131,7 @@ mammothtools.com
 mamycia.com
 man-in-action.de
 manabeads.com
+manage.kmail-lists.com
 management.facebook.com
 manasquanbank.com
 manateesbaseball.com
@@ -32834,6 +32840,7 @@ mcphee.com
 mcphees.co.nz
 mcpoolen.se
 mcpuppets.com
+mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com
 mcquerryorchidbooks.com
 mcrgifts.com
 mcrok.com
@@ -34713,6 +34720,8 @@ msrbeta.research.microsoft.com
 msrcmt.research.microsoft.com
 msrcorp.com
 msrn.research.microsoft.com
+mssl.fwmrm.net
+mssl.fwmrm.net.edgesuite.net
 msuc02.manage.microsoft.com
 msw-modelle.de
 msysa.org
@@ -42778,6 +42787,7 @@ revengeracing.com
 revengeunlimited.com
 revenue.ie
 reverbnation.com
+review-rating.mncdn.com
 review.intern.facebook.com
 revitacel.net
 revivalsoy.com
@@ -43759,6 +43769,7 @@ s3r.io
 s4.symcb.com
 s42089924.einsundeinsshop.de
 s5.symcb.com
+s50.device.marketingcloudapis.com
 s7y.us
 s88570519.t.en25.com
 sa-blacklist.stearns.org
@@ -52456,6 +52467,7 @@ us.cyworld.com
 us.hsbc.com
 us.pool.ntp.org
 us.vortex-win.data.microsoft.com
+us1-1.nanorep.co
 usaa.com
 usaba.org
 usabadminton.org
@@ -52537,6 +52549,7 @@ uu.cc
 uwzorgonline.nl
 v-vb.de
 v.firebog.net
+v.fwmrm.net
 v.gd
 v.ht
 v.pinimg.com
