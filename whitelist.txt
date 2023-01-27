@@ -3957,6 +3957,7 @@ api.monitor.azure.com
 api.myteamspeak.com
 api.narrativ.com
 api.netatmo.net
+api.noda.live
 api.office.microsoft.com
 api.onedrive.com
 api.opinary.com
@@ -3998,6 +3999,7 @@ api.viber.com
 api.vip.miui.com
 api.yep.com
 api.zaloapp.com
+api.zepto.co.in
 api2.facebook.com
 api3.siftscience.com
 apihockey.com
@@ -11406,6 +11408,7 @@ certpartner.one.microsoft.com
 cervantes.com
 cetelem.hu
 ceynix.co.uk
+cf-iomeu-cdn.relaxg.com
 cf-st.sc-cdn.net
 cf.hamreus.com
 cf.iadsdk.apple.com
@@ -23282,6 +23285,7 @@ gofukuyasan.com
 gogavingear.com
 gogearstick.com
 goglo.com
+gogoanime.tel
 gogogear.com.au
 gogogloglo.com
 gogoritas.com
@@ -40766,6 +40770,7 @@ privatarchiv.de
 privatbank.ua
 privatbank1891.com
 privatebanking.info
+privatedomain.sgizmo.com
 privateinternetaccess.com
 privatenews.microsoft.com
 privateoutlet.fr
@@ -41343,6 +41348,7 @@ qr.net
 qray.com
 qrtag.fr
 qssupplies.co.uk
+qsurvey.mozilla.com
 qt.io
 quadmed.com
 quadratec.com
@@ -48522,6 +48528,7 @@ starkeydesigns.com
 starlamps.net
 starlight-online.com
 starlightdancewear.com
+starling-oversea.byteoversea.com
 starlingbank.com
 starlite-intl.com
 starmagic.com
@@ -52268,6 +52275,7 @@ ufa.wifi.domru.ru
 ug.cz
 uggaustralia.com
 uggbootshop.co.uk
+ui.noda.live
 ui.skype.akadns.net
 ui.skype.com
 uiccu.org
