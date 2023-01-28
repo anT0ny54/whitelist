@@ -33,6 +33,7 @@
 *.ceros.com
 *.change.org.cdn.cloudflare.net
 *.cloud.axiadids.net
+*.contabostorage.com
 *.controld.com
 *.custom-domain.publitas.com
 *.damoh.*.de
@@ -89,6 +90,7 @@
 *.ntp-fireos.com
 *.passport.yandex.ru
 *.pdc.micloud.xiaomi.net
+*.pdcdn1.top
 *.performfeeds.com
 *.phonecallapi.micloud.xiaomi.net
 *.primevideo.com
@@ -3890,6 +3892,7 @@ api-hphp-05-01-ash1.facebook.com
 api-hphp-05-01-sf2p.facebook.com
 api-mainnet.pool.space
 api-read.facebook.com
+api-secure.solvemedia.com
 api-unionid.meituan.com
 api-v4.trbo.com
 api-video-sf2p.facebook.com
@@ -13326,6 +13329,7 @@ consent.faz.net
 consent.google.com
 consent.trustarc.com
 consent.truste.com
+consent.yahoo.com
 consentmanager.mgr.consensu.org
 conservativebookclub.com
 conservativebookservice.com
@@ -13352,6 +13356,7 @@ consumables.co.nz
 consumabulbs.com
 consumating.com
 consumersbank.com
+contabostorage.com
 contact-eye.com
 contact-uk.com
 contactapi.micloud.xiaomi.net
@@ -18332,6 +18337,7 @@ embarrassingproblems.co.uk
 embears.com
 embed.dugout.com
 embed.flowplayer.org
+embed.ly
 embed.scribblelive.com
 embed.spotify.com
 embed.tagboard.com
@@ -35789,6 +35795,7 @@ newroad21.com
 news.ebc.net.tw
 news.google.com
 news.iadsdk.apple.com
+news.rambler.ru
 news.smi2.ru
 news.ycombinator.com
 newscloud.com
@@ -54291,6 +54298,7 @@ www.mts3.googleapis.com
 www.mystart.com
 www.mywot.com
 www.namecheap.com
+www.narcity.com.cdn.rebelmouse.com
 www.nationalgeographic.com
 www.ndbbankonline.com
 www.neosonline.ndbbank.com
