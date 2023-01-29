@@ -4030,6 +4030,7 @@ apogeekits.com
 apoggi.com
 apollo.pl
 apolloflags.com
+apollopushserver.xyz
 apollosaxes.com
 apolos.pl
 apondo.de
@@ -10499,6 +10500,7 @@ captcha-display.com
 captharry.com
 captify.mgr.consensu.org
 captive.apple.com
+captive.roku.com
 captivebred.com
 captoy.dk
 captur.in
@@ -14708,6 +14710,7 @@ d16g-cornerstone-bes.integ.amazon.com
 d1a62freaxhn7x.cloudfront.net
 d1afootball.com
 d1bd3wxsyuz0t7.cloudfront.net
+d1k85ogl73rd7b.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d28n7yywqog3r7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
@@ -14994,6 +14997,7 @@ data.iana.org
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
 data.sec.miui.com
+data.tmsapi.com
 data.tvdownload.microsoft.com
 data.video.iqiyi.com
 datadoghq-browser-agent.com
@@ -22531,6 +22535,7 @@ geo-prod.do.dsp.mp.microsoft.com
 geo.ngtv.io
 geo.paypalobjects.com.akadns.net
 geo.prod.dodsp.mp.microsoft.com.nsatc.net
+geo.yahoo.com
 geo1.presslabs.net
 geo3.ggpht.com
 geoauth.google.com
@@ -40259,6 +40264,7 @@ ppt.li
 ppurifier.game.xiaomi.com
 ppurl.io
 pr-youhin.co.jp
+pr.comet.yahoo.com
 pr0gramm.com
 practical-plastics.com
 practicalpreschool.com
@@ -50145,6 +50151,8 @@ tcrn.ch
 tcsjerky.com
 tcstore.com
 tcustomgolf.com
+td-mashery-tm-use1.mashery.com
+td-tms.mashery.com
 td.com
 td.facebook.com
 tdameritrade.com
@@ -51546,6 +51554,7 @@ tmetrix.my.chick-fil-a.com
 tmicheal.com
 tmrrfc.qc.ca
 tms.airtelbroadband.in
+tms.api.mashery.com
 tmz.com
 tmz.vo.llnwd.net
 tnb.ru
