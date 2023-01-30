@@ -72,6 +72,7 @@
 *.lencr.org
 *.mail.onedrive.com
 *.maxmind.com
+*.mcsvc.samsung.com
 *.mdhcdn.com
 *.mediatek.com
 *.meituan.com
@@ -88,6 +89,7 @@
 *.nexusrules.live.com.akadns.net
 *.nexusrules.officeapps.live.com
 *.ntp-fireos.com
+*.osi.office.net
 *.passport.yandex.ru
 *.pdc.micloud.xiaomi.net
 *.pdcdn1.top
@@ -3982,6 +3984,7 @@ api.sibboventures.mgr.consensu.org
 api.simplisafe.com
 api.skimlinks.mgr.consensu.org
 api.speedspot.org
+api.st-av.net
 api.storyly.io
 api.sunrise-sunset.org
 api.surfeasy.com
@@ -16046,6 +16049,7 @@ discord.co.uk
 discord.com
 discord.gg
 discordapp.com
+discords.com
 discount-appliances.co.uk
 discount-books.com
 discount-clothing-catalog.com
@@ -21421,6 +21425,7 @@ fp1-tk2-upl.ds.microsoft.com
 fpdownload.adobe.com
 fpdownload.macromedia.com
 fpn.firefox.com
+fpt.live.com
 fpt.m.facebook.com
 fr-ca.facebook.com
 fr-ca.gravatar.com
@@ -27447,6 +27452,7 @@ indulgecigars.com
 indusfashions.com
 indusind.com
 indusmall.com
+indusprodcustomer3996.pc.cdn.bitgravity.com
 industrialbank.ua
 indycar.com
 indygem.com
@@ -30854,6 +30860,7 @@ lakewoodbank.com
 lakewoodblueclaws.com
 lakewoodcroquet.com
 lakotacreations.com
+lalpathlabs.com
 lamaisondemarine.fr
 lamaisondevalerie.fr
 lamaternelledechocolatine.eklablog.com
@@ -35868,6 +35875,7 @@ nextstepcomputing.com
 nextstepshoes.net
 nexus-websocket-a.intercom.io
 nexus.ensighten.com
+nexus.live.com
 nexus.passport.com
 nexusamerica.com
 nexusflorist.com
@@ -52005,6 +52013,7 @@ ui.skype.akadns.net
 ui.skype.com
 uiccu.org
 uim.tifbs.net
+uimetadata.samsungiotcloud.com
 uk-go.kelkoogroup.net
 uk-ua.facebook.com
 uk.gravatar.com
