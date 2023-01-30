@@ -89,6 +89,7 @@
 *.nexusrules.live.com.akadns.net
 *.nexusrules.officeapps.live.com
 *.ntp-fireos.com
+*.o9.de
 *.osi.office.net
 *.passport.yandex.ru
 *.pdc.micloud.xiaomi.net
@@ -18356,6 +18357,7 @@ embed.scribblelive.com
 embed.spotify.com
 embed.tagboard.com
 embed.tagboard.com.herokudns.com
+embed.typeform.com
 embellishmentsinc.com
 embellishonline.com
 emblibrary.com
