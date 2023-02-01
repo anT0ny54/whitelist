@@ -1205,6 +1205,7 @@ abc-awards.com
 abc-embroidery-designs.com
 abc-hanko.jp
 abc-toner-cartridges.co.uk
+abc-twitter.extremereach.com
 abc.com
 abc.facebook.com
 abc.nl
@@ -1228,6 +1229,7 @@ abcn.ws
 abcn123kids.com
 abcneckties.com
 abcneworleans.com
+abcnews.extremereach.com
 abcnews.go.com
 abcofcricket.com
 abcoffice.com
@@ -2193,6 +2195,7 @@ agelong.com
 agen-rugby.com
 agenciatributaria.gob.es
 agentb.com
+agents.extremereach.com
 ageofchivalry.com
 agerstaridshop.nu
 agferrari.com
@@ -4068,6 +4071,7 @@ app.datadoghq.eu
 app.dharma.io
 app.e.sigsauer.com
 app.engage.jio.com
+app.extremereach.com
 app.facebook.com
 app.getresponse.com
 app.gitbook.com
@@ -16663,6 +16667,7 @@ download.alexa.com
 download.cnet.com
 download.dmd.metaservices.microsoft.com
 download.emercoin.com
+download.extremereach.com
 download.intsig.net
 download.jp.microsoft.com
 download.microsoft.com
@@ -17013,6 +17018,7 @@ dutyfreestores.com.au
 duvetsdirect.com
 duvines.com
 duxdekes.com
+dv.extremereach.com
 dv.gd
 dvb-shop24.net
 dvb101.net
@@ -52166,6 +52172,7 @@ update.utorrent.com
 updatefaker.com
 updates-http.cdn-apple.com
 updates.cdn-apple.com
+updates.extremereach.com
 updates.push.services.mozilla.com
 updating.me
 upgrade.scdn.co
