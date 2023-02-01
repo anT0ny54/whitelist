@@ -16261,6 +16261,7 @@ dknits.com
 dl-client.dropbox.com
 dl-debug.dropbox.com
 dl-protect.info
+dl-protect.net.com
 dl-ssl.l.google.com
 dl-web.dropbox.com
 dl.360safe.com
@@ -50429,6 +50430,7 @@ terminal.accentpay.com
 terminal.akado.ru
 terminal.ecommpay.com
 terminal.ucs.su
+termly.io
 terms.facebook.com
 termwiki.com
 ternart.com
