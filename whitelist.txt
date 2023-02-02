@@ -1,3 +1,4 @@
+*-mobile.events.data.microsoft.com
 *.a.klaviyo.com
 *.acdsystems.com
 *.acsechocaptiveportal.com
@@ -21,6 +22,7 @@
 *.atv-ext*.amazon.com
 *.atv-ps.amazon.com
 *.aylanetworks.com
+*.bln1.yospace.com
 *.boldchat.com
 *.bonialconnect.com
 *.buymeacoffee.com
@@ -54,7 +56,6 @@
 *.execute-api.*.amazonaws.com
 *.export.yandex.ru
 *.fbcdn.net
-*.forester.a2z.com
 *.forms.office.com
 *.gateway.devices.a2z.com
 *.gc.apple.com
@@ -129,6 +130,7 @@
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
+*.tls1.yospace.com
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
 *.twibbonize.com.cdn.ezoic.net
@@ -8264,6 +8266,7 @@ blitzreifen.de
 blitzsport.com
 blitzwatches.co.uk
 blkb.ch
+bln1.yospace.com
 blnrouter.alerts.microsoft.com
 bloat.me
 blob.weather.microsoft.com
@@ -9972,7 +9975,6 @@ c-dtags.com
 c-o.in
 c-p-p.co.uk
 c-und-d.de
-c.amazon-adsystem.com
 c.apple.com
 c.betrad.com
 c.bing.com
@@ -19388,7 +19390,6 @@ extremely-sharp.com
 extremeoutdoorsupply.com
 extremeracing.co.uk
 extremeracquetball.com
-extremereach.com
 extremeshop.ru
 extremesteering.com
 extremetoys.com
@@ -20948,35 +20949,10 @@ flowerwish.net
 flowerworksuk.com
 flowerzonline.com
 flrex.research.microsoft.com
-fls-cn.amazon.cn
-fls-eu.amazon-adsystem.com
-fls-eu.amazon.ae
-fls-eu.amazon.ca
-fls-eu.amazon.co.uk
 fls-eu.amazon.com
-fls-eu.amazon.com.be
-fls-eu.amazon.com.tr
 fls-eu.amazon.de
-fls-eu.amazon.eg
-fls-eu.amazon.es
-fls-eu.amazon.fr
-fls-eu.amazon.in
-fls-eu.amazon.it
-fls-eu.amazon.nl
-fls-eu.amazon.pl
-fls-eu.amazon.sa
-fls-eu.amazon.se
-fls-fe-opf.amazon.com
-fls-fe.amazon-adsystem.com
-fls-fe.amazon.co.jp
 fls-fe.amazon.com
-fls-fe.amazon.com.au
-fls-fe.amazon.sg
-fls-na.amazon-adsystem.com
-fls-na.amazon.ca
 fls-na.amazon.com
-fls-na.amazon.com.br
-fls-na.amazon.com.mx
 fluance.com
 fluctuat.net
 flugversand.de
@@ -31606,6 +31582,7 @@ m.uczzd.cn
 m.w.ms
 m.weeklyad.target.com
 m.youtube.com
+m1.com
 m1.daumcdn.net
 m1.fwmrm.net
 m1.fwmrm.net-v1.edgesuite.net
@@ -51562,6 +51539,7 @@ tlc.com
 tld-list.com
 tldr.sk
 tllg.net
+tls1.yospace.com
 tls13.facebook.com
 tlu.dl.delivery.mp.microsoft.com
 tm.facebook.com
@@ -52066,8 +52044,6 @@ umweltbank.de
 unagi-eu.amazon.com
 unagi-fe.amazon.com
 unagi-na.amazon.com
-unagi.amazon.co.jp
-unagi.amazon.com
 unamourdebijoux.com
 unbank.com
 unbouncepages.com
