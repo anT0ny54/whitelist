@@ -11097,6 +11097,7 @@ cdn-yams.schibsted.com
 cdn.adf.ly
 cdn.adrise.tv
 cdn.agilebits.com
+cdn.appconsent.io
 cdn.apple-mapkit.com
 cdn.ark.qq.com
 cdn.arstechnica.net
@@ -12976,6 +12977,7 @@ collectionsetc.com
 collectiques.co.uk
 collecto-mania.com
 collectomania.be
+collector.appconsent.io
 collector.githubapp.com
 collector.lightstep.com
 collector.schibsted.io
@@ -18342,6 +18344,7 @@ email.appsumo.com
 email.cmt.research.microsoft.com
 email.docker.com
 email.facebook.com
+email.goodrx.com
 email.microsoftemail.com
 email.microsoftrewards.com
 email.namebase.io
@@ -27650,6 +27653,7 @@ intensekarting.com
 inter-photo.dk
 inter-spares.co.uk
 interactive-sport.com
+interactive.guim.co.uk
 interactivebrokers.co.uk
 interactivebrokers.com
 interaquaristik.de
@@ -48337,6 +48341,7 @@ stateside-shopping.com
 stathat.com
 static-ak.facebook.com
 static-asm.secure.skypeassets.com
+static-assets.highwebmedia.com
 static-cl.xhcdn.com
 static-ite.paytmbank.com
 static-pepper.dealabs.com
@@ -51700,9 +51705,11 @@ tracker.alpharatio.cc
 tracker.animebytes.tv
 tracker.avistaz.to
 tracker.beyond-hd.me
+tracker.empornium.sx
 tracker.gg
 tracker.marinsm.com
 tracker.opentrackr.org
+tracker.tleechreload.org
 tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
 tracking.dpd.de
