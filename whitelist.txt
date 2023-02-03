@@ -22,7 +22,6 @@
 *.atv-ext*.amazon.com
 *.atv-ps.amazon.com
 *.aylanetworks.com
-*.bln1.yospace.com
 *.boldchat.com
 *.bonialconnect.com
 *.buymeacoffee.com
@@ -130,7 +129,6 @@
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
-*.tls1.yospace.com
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
 *.twibbonize.com.cdn.ezoic.net
@@ -8266,7 +8264,6 @@ blitzreifen.de
 blitzsport.com
 blitzwatches.co.uk
 blkb.ch
-bln1.yospace.com
 blnrouter.alerts.microsoft.com
 bloat.me
 blob.weather.microsoft.com
@@ -14344,6 +14341,8 @@ csi.l.google.com
 csi247.com
 csl-furniture.co.uk
 cslpremier.com
+csm-e-cbch-eb.tls1.yospace.com
+csm-e-cecbcaeuw1live101-08ca6f41e85e8368d.bln1.yospace.com
 csmalls.com
 csnll.org
 csp.int-x3.letsencrypt.org.edgesuite.net
@@ -51544,7 +51543,6 @@ tlc.com
 tld-list.com
 tldr.sk
 tllg.net
-tls1.yospace.com
 tls13.facebook.com
 tlu.dl.delivery.mp.microsoft.com
 tm.facebook.com
@@ -54624,7 +54622,6 @@ xeeurl.com
 xero.com
 xflight.xboxlive.com
 xg4ken.com
-xg4ken.com7eer.net
 xgd.in
 xhamster.com
 xianz.com
