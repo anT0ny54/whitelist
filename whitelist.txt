@@ -132,6 +132,7 @@
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
+*.tipico.de
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
 *.twibbonize.com.cdn.ezoic.net
@@ -31173,7 +31174,6 @@ lilactwist.com
 lilisto.com
 liltext.com
 lime-zaim.ru
-limetorrents.lol
 limited-prod.giphy.map.fastly.net
 limtu.ifmo.ru
 lin.cr
@@ -33413,6 +33413,7 @@ migs.mastercard.co.in
 migs.mastercard.com.au
 miguelraigon.com
 mijn.ing.nl
+mijn.overheid.nl
 mijnpazio.nl
 mijong.net
 mijoyeria.com
@@ -33830,6 +33831,7 @@ moananuidesigns.com
 moanui.co.nz
 mob-action.de
 mobankers.com
+mobapi-qero-ab.e-goi.com
 mobi-fon.ru
 mobibank.upb.ru
 mobifree.ru
@@ -51719,6 +51721,7 @@ track.adform.net
 track.aliexpress.com
 track.cj.akadns.net
 track.customer.io
+track.dhlparcel.co.uk
 track.effiliation.com
 track.goshippo.com
 track.nzz.ch
@@ -51731,16 +51734,10 @@ track24.ru
 trackcmp.net
 trackenterprises.com
 tracker*.scoober.com
-tracker.alpharatio.cc
-tracker.animebytes.tv
-tracker.avistaz.to
-tracker.beyond-hd.me
-tracker.empornium.sx
 tracker.gg
 tracker.marinsm.com
 tracker.opentrackr.org
 tracker.scenetime.com
-tracker.tleechreload.org
 tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
 tracking.dpd.de
