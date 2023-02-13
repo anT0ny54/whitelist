@@ -6,6 +6,7 @@
 *.adguard-dns.io
 *.adguard.com
 *.admin-mcas.ms
+*.ads.brave.com
 *.aerisapi.com
 *.aimon.applicationinsights.io
 *.aiv-cdn.net
@@ -10551,6 +10552,7 @@ caraudioshopping.com
 caraudiovideosystems.com
 caravanbeads.com
 carbolicsoap.com
+carbon-v2.ipsator.com
 carbonads.net
 carbontech.com
 carbox.co.uk
@@ -35640,6 +35642,7 @@ neodvd.pl
 neokistomi.com
 neon-radsport.de
 neon.com.br
+neon.ipsator.com
 neonet-marine.com
 neonet.pl
 neonhats.com
@@ -44582,6 +44585,7 @@ sdsefi.com
 sdu.sk
 sdx4.com
 se-go.kelkoogroup.net
+se-tv4.videoplaza.tv
 sea.net.edu.cn
 seabostonusa.com
 seabrooknursery.com
