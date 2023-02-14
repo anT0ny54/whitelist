@@ -67,6 +67,7 @@
 *.googlevideo.com
 *.images-amazon.com
 *.ims.vodafone.com
+*.info.lgsmartad.com
 *.informer.yandex.ru
 *.instant.page
 *.intercom.io
@@ -1771,6 +1772,7 @@ adrienarpel.com
 ads-a-darwin.hulustream.com.akamaized.net
 ads-e-darwin.hulustream.com
 ads-fa-darwin.hulustream.com
+ads.brave.com
 ads.careerbuilder.vn
 ads.julephosting.de
 ads.mst.dk
@@ -27512,6 +27514,7 @@ info.deltacredit.ru
 info.evidon.com
 info.internet.org
 info.izatcloud.net
+info.lgsmartad.com
 info.metib.ru
 info.ms
 infoa.biz
@@ -34558,6 +34561,7 @@ msevents.microsoft.com
 mseventsdev.microsoft.com
 mseventsppe.microsoft.com
 mseventstest.microsoft.com
+msf.3g.qq.com
 msft.sts.microsoft.com
 msftconnecttest.com
 msftncsi.com
@@ -44965,6 +44969,7 @@ sentimentsflowers.com
 sentire-one.com
 sentry.hotjar.com
 sentry.io
+sentry.sc-prod.net
 seo4india.com
 seoimgak.mmtcdn.com
 seopult.ru
@@ -52312,7 +52317,6 @@ us.cyworld.com
 us.emp.lgsmartplatform.com
 us.hsbc.com
 us.ibs.lgappstv.com
-us.info.lgsmartad.com
 us.lgeapi.com
 us.lgtvsdp.com
 us.pool.ntp.org
