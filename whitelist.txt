@@ -30,7 +30,6 @@
 *.cc-api-data.adobe.io
 *.cdn-apple.com
 *.cdn-noc.net
-*.cdn.optimizely.com
 *.cdninstagram.com
 *.cdx.cedexis.net
 *.ceros.com
@@ -133,6 +132,8 @@
 *.spartoo.pl
 *.spartoo.pt
 *.stat.gov.pl
+*.static-app.klaviyo.com
+*.static-forms.klaviyo.com
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
@@ -11660,6 +11661,7 @@ chat.facebook.com
 chateau-de-fleurs.com
 chatenabled.mail.google.com
 chaters.co.uk
+chatra.io
 chatswoodshopping.com.au
 chattanoogagifts.com
 chatterboxgifts.co.uk
