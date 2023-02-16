@@ -3911,6 +3911,7 @@ apflowers.com
 aphrodisiacs.com.au
 api*.amazonalexa.com
 api*.intercom.io
+api*.sony.tv
 api-02.moengage.com
 api-05-01-sf2p.facebook.com
 api-game.meizu.com
@@ -9333,6 +9334,8 @@ bright-hospitality-inc.com
 brightcove.map.fastly.net
 brightcove.net
 brighterscents.com
+brightline.tv
+brightline.tv.edgekey.net
 brightlingsbeads.com
 brightsidetie-dyes.com
 brightsparksknitwear.co.uk
@@ -47334,6 +47337,7 @@ spadaka-friesoythe.de
 spadaka-hoengen.de
 spadaka-oeventrop.de
 spadaka-reken.de
+spade.sci.twitch.tv
 spade.twitch.tv
 spadepot.com
 spaendoncksport.nl
@@ -51813,6 +51817,7 @@ traceurl.com
 track.adform.net
 track.aliexpress.com
 track.aliexpress.com.gds.alibabadns.com
+track.aliexpress.ru
 track.cj.akadns.net
 track.customer.io
 track.dhlparcel.co.uk
