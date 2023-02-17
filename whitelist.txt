@@ -131,6 +131,7 @@
 *.spartoo.it
 *.spartoo.pl
 *.spartoo.pt
+*.speedtest.sbcglobal.net
 *.stat.gov.pl
 *.static-app.klaviyo.com
 *.static-forms.klaviyo.com
@@ -11210,6 +11211,7 @@ cdn.trustcommander.net
 cdn.ttgtmedia.com
 cdn.unpkg.com
 cdn.viblast.com
+cdn.video.meredithcorp.io
 cdn.vidible.tv
 cdn.voscast.com
 cdn.w3schools.com
@@ -16643,6 +16645,7 @@ doors4pets.com
 doorsdirect.co.uk
 doostang.com
 dopice.sk
+doppler-config.cbsivideo.com
 doppo.net
 dorba.org
 doreensinnettdolls.com
@@ -27302,6 +27305,7 @@ imagesoftime.com
 imagespin.com
 imagesport.com
 imagesupply.com
+imagesvc.meredithcorp.io
 imagetomosaic.com
 imagetwist.com
 imagewearcw.com
@@ -39772,6 +39776,7 @@ playaboule.com
 playactionproducts.com
 playahead.se
 playback.ru
+playback.video.meredithcorp.io
 playbooks-pa.googleapis.com
 playengine.co.uk
 player-feedback-v1.glomex.com
@@ -42527,6 +42532,7 @@ reliablepowertools.com
 reliableracing.com
 reliabletiming.com
 reliablewirelesscenter.com
+reliaquest.com
 relicman.com
 religieusekunst.nl
 religijna.pl
