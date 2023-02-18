@@ -61,6 +61,7 @@
 *.gateway.devices.a2z.com
 *.gc.apple.com
 *.gc.fe.apple-dns.net
+*.geo.ngtv.io
 *.geotrust.com
 *.gigya.com
 *.googletagmanager.com
@@ -78,6 +79,7 @@
 *.maxmind.com
 *.mcsvc.samsung.com
 *.mdhcdn.com
+*.measurement-lab.org
 *.mediatek.com
 *.meituan.com
 *.meituan.net
