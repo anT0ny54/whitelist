@@ -112,6 +112,7 @@
 *.rtl-relay.iocnt.net
 *.safebrowsing.apple
 *.scarf.sh
+*.scdn.co
 *.sch.gr
 *.schneevonmorgen.com
 *.schneevonmorgen.com.s3.amazonaws.com
@@ -134,6 +135,8 @@
 *.spartoo.pl
 *.spartoo.pt
 *.speedtest.sbcglobal.net
+*.spotify.com.akahost.net
+*.spotify.com.edgesuite.net
 *.stat.gov.pl
 *.static-app.klaviyo.com
 *.static-forms.klaviyo.com
@@ -169,6 +172,7 @@
 *microsoft.online-metrix.net
 *ocsp.microsoft.com
 *paypal*.siteintercept.qualtrics.com
+*spotify-com.akamaized.net
 *star.*.facebook.com
 *telemetry.*oraclecloud.com
 *v10-win.vortex.data.microsoft.com.akadns.net
@@ -5119,6 +5123,7 @@ audible.de
 audid-api.taobao.com
 audiencecenter.google.com
 audimated.com
+audio*.spotify.com
 audio-ak-spotify-com.akamaized.net
 audio-ake.spotify.com.edgesuite.net
 audio-akp-spotify-com.akamaized.net
@@ -25099,6 +25104,7 @@ headphoneheaven.com
 headphones.com
 headpieceheaven.com
 headrazor.com
+heads*.spotify.com
 heads-fa.scdn.co
 headscarves.com
 headsethouse.com
@@ -29416,6 +29422,7 @@ k-beeleos.com
 k-fitshop.de
 k-style.on.arena.ne.jp
 k-wind.net
+k.apiairasia.com
 k.cocooncenter.com
 k2rf.com
 k2skates.com
