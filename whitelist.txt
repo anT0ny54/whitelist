@@ -584,6 +584,7 @@
 24h-bildexpress.de
 24hourshopping.nl
 24leather.com
+24smi.info
 25.ajax.googleapis.com
 26.ajax.googleapis.com
 27.ajax.googleapis.com
@@ -19776,6 +19777,7 @@ fandmstbk.com
 fangame.ru
 fanhut.com
 fanlatino.com
+fanlink.to
 fanmarkt.de
 fanmats.com
 fannation.com
@@ -44343,6 +44345,7 @@ scbankers.org
 scbeasy.com
 scca-lol.org
 sccards.com
+scdn.co
 scenarieconomici.it
 sceneramicphoto.com
 scenicsilks.co.uk
@@ -48102,6 +48105,7 @@ sportznutz.com
 spot-on-sundials.co.uk
 spotfree.net
 spotify.com
+spotify.com.akahost.net
 spotlesspaw.com
 spotlightonkaraoke.com
 spotlitemagic.com
