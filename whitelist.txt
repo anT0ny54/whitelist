@@ -1,5 +1,4 @@
 *-mobile.events.data.microsoft.com
-*.a.klaviyo.com
 *.acdsystems.com
 *.acsechocaptiveportal.com
 *.adguard-dns.com
@@ -28,7 +27,6 @@
 *.buymeacoffee.com
 *.cas.ms
 *.cc-api-data.adobe.io
-*.cdn*.optimizely.com
 *.cdn-apple.com
 *.cdn-noc.net
 *.cdninstagram.com
