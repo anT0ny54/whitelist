@@ -47330,6 +47330,7 @@ source.developers.google.com
 source.facebook.com
 sourcebiofly.com
 sourcebmx.com
+sourcepoint.theguardian.com
 sourcing4u.co.uk
 sourl.cn
 sourpussclothing.com
@@ -54230,6 +54231,7 @@ www.auditrecording-pa.googleapis.com
 www.avantlink.com
 www.awin1.com
 www.baidu.com
+www.baixaki.com.br
 www.betanews.com
 www.bfast.com
 www.bigcache.googleapis.com
