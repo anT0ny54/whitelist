@@ -141,6 +141,7 @@
 *.stat.gov.pl
 *.static-app.klaviyo.com
 *.static-forms.klaviyo.com
+*.syn-alias.com
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
