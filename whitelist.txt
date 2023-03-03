@@ -27417,6 +27417,7 @@ imgclothing.com
 imgdone.com
 imghtl.mmtcdn.com
 imghtlak.mmtcdn.com
+imgix.datadoghq.com
 imgix.net
 imgk.timesnownews.com
 imgs.elaine-asp.de
@@ -54909,7 +54910,6 @@ xeeurl.com
 xero.com
 xflight.xboxlive.com
 xg4ken.com
-xg4ken.com7eer.net
 xgd.in
 xhamster.com
 xianz.com
