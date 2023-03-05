@@ -27345,6 +27345,7 @@ images-of-asia.com
 images-wus.weather.microsoft.com
 images.adrise.tv
 images.cdn.scarabresearch.com
+images.core.optasports.com
 images.dmca.com
 images.dwell.com
 images.financialexpress.com.edgekey.net
@@ -32807,6 +32808,7 @@ mbvt.com
 mbz19n.accounts.clickbank.com
 mc-scatter.com
 mc-tanz.de
+mc.cubecdn.net
 mc.yandex.ru
 mc2intl.com
 mca-marines.org
