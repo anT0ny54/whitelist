@@ -29,6 +29,7 @@
 *.cc-api-data.adobe.io
 *.cdn-apple.com
 *.cdn-noc.net
+*.cdnhwc1.com
 *.cdninstagram.com
 *.cdx.cedexis.net
 *.ceros.com
@@ -16872,6 +16873,7 @@ dreampens.co.uk
 dreamproductscatalog.com
 dreamsack.com
 dreamscapesgardening.com
+dreamsearch.or.kr
 dreamshares.com
 dreamsnrainbows.com
 dreamsplc.com
@@ -23418,6 +23420,7 @@ going-n-style.com
 gointothedogs.com
 goisco.com
 gojane.com
+gokams.or.kr
 gokartexpress.com
 gokartgalaxy.com
 gokarts1.com
@@ -30948,6 +30951,7 @@ kvgbank.com
 kvinesdalsparebank.no
 kvvet.com
 kxb.me
+kxcdn.com
 kyffhaeusersparkasse.de
 kyivstar.m.facebook.com
 kykyryza.ru
@@ -35897,6 +35901,7 @@ netteknits.com
 netteller.com
 netti.com.au
 nettracing.com
+netu.wiztube.xyz
 netuniform.com
 netvouz.com
 netwear.de
@@ -53071,6 +53076,7 @@ vidinc.net
 vidio.com
 vidoza.net
 vidtech.cbsinteractive.com
+vidyard.com
 viecokitchen.com
 vietcombank.com.vn
 vietinbank.vn
@@ -55245,6 +55251,7 @@ zoolandia.pl
 zoologiczny.sklep.pl
 zoom.us
 zoombridal.com
+zoominfo.com
 zoomit.ca
 zoommovie.com
 zoomteen.info
