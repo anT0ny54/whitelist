@@ -11270,6 +11270,7 @@ cdnapi.kaltura.com
 cdnapisec.kaltura.com
 cdnbakmi.kaltura.com
 cdnbunny.org
+cdnhwc1.com
 cdninstagram.com
 cdnjs.cloudflare.co
 cdnjs.cloudflare.com
@@ -51982,6 +51983,7 @@ track.dhlparcel.co.uk
 track.effiliation.com
 track.gojek.com
 track.goshippo.com
+track.grove.co
 track.nzz.ch
 track.productsup.io
 track.seadform.net
