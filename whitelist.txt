@@ -1,3 +1,4 @@
+*-boot.tiktokv.com
 *.acdsystems.com
 *.acsechocaptiveportal.com
 *.activity.windows.com
