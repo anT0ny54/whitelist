@@ -84,7 +84,6 @@
 *.mcsvc.samsung.com
 *.mdhcdn.com
 *.measurement-lab.org
-*.mediatek.com
 *.meituan.com
 *.meituan.net
 *.messengerpeople.com
