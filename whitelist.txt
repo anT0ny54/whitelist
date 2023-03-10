@@ -44,6 +44,7 @@
 *.data-*.rtl.de
 *.dds.microsoft.com
 *.digicert.com
+*.doppiocdn.com
 *.email*.office.com
 *.email.microsoftemail.com
 *.email.microsoftonline.com
@@ -145,6 +146,7 @@
 *.stat.gov.pl
 *.static-app.klaviyo.com
 *.static-forms.klaviyo.com
+*.strpst.com
 *.syn-alias.com
 *.teams.live.com
 *.teams.microsoft.com
@@ -35834,6 +35836,7 @@ netbank.com
 netbank.de
 netbank.erstebank.hu
 netbank.kdb.hu
+netbank.nordea.dk
 netbank.takarek.hu
 netbank.takarekbank.hu
 netbanking.erstebank.hr
@@ -51029,6 +51032,7 @@ thecabinfeversite.com
 thecabinshop.com
 thecakestore.com
 thecameracentre.net
+thecanadianpharmacy.com
 thecandyshop.com
 thecapecoddog.com
 thecapfactory.co.uk
