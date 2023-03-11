@@ -45,6 +45,7 @@
 *.dds.microsoft.com
 *.digicert.com
 *.doppiocdn.com
+*.dvsdvsdvsdva.com
 *.email*.office.com
 *.email.microsoftemail.com
 *.email.microsoftonline.com
@@ -154,6 +155,7 @@
 *.tipico.de
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
+*.tuyacn.com
 *.twibbonize.com.cdn.ezoic.net
 *.ultimedia.com
 *.unmineable.com
@@ -33932,6 +33934,7 @@ mkn.co.uk
 mkonlinesavings.com
 mkpens.co.uk
 mktoweb.com
+mktp.tmoney.co.kr
 mkwireless.com
 ml-brillant.de
 ml.clients6.google.com
