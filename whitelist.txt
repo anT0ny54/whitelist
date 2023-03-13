@@ -167,6 +167,7 @@
 *.videoland.com
 *.videorolls.row.aiv-cdn.net
 *.wdtinc.com
+*.widget.cloud.opta.net
 *.www-googletagmanager.l.google.com
 *.xp.apple.com
 *.ytimg.com
@@ -48691,6 +48692,7 @@ staticxx.facebook.com
 stationerylady.com
 stationeryxpress.com
 stationhouse.com
+statistics.bcapps.org
 stats.appsflyer.com
 stats.espncricinfo.com
 stats.gc.apple.com
