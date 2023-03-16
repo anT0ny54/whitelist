@@ -45010,6 +45010,7 @@ secure.payza.com
 secure.payza.eu
 secure.platononline.com
 secure.prod.facebook.com
+secure.royalbank.com
 secure.sirena-travel.ru
 secure.surveymonkey.com
 secure.tcsbank.ru
