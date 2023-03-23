@@ -70,6 +70,7 @@
 *.gigya.com
 *.googletagmanager.com
 *.googlevideo.com
+*.gph.easebar.com
 *.images-amazon.com
 *.images.core.optasports.com
 *.imgix.datadoghq.com
@@ -162,6 +163,7 @@
 *.twibbonize.com.cdn.ezoic.net
 *.ultimedia.com
 *.unmineable.com
+*.update.easebar.com
 *.update.intl.miui.com
 *.update.microsoft.com
 *.vercel-dns.com
