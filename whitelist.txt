@@ -48380,6 +48380,7 @@ ssl.google-analytics.com
 ssl.gpsonextra.net
 ssl.gs
 ssl.gstatic.com
+ssl.kaptcha.com
 ssl.marfeelcdn.com
 ssl.o.auspost.com.au
 ssl.p.jwpcdn.com
