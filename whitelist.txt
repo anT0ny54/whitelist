@@ -15,6 +15,7 @@
 *.amazonvideo.com
 *.api.b.hatena.ne.jp
 *.api.brightcove.com
+*.api.intuit.com
 *.api.iris.microsoft.com
 *.app.link
 *.apps.apple.com
@@ -4050,6 +4051,7 @@ api.sec.miui.com
 api.sibboventures.mgr.consensu.org
 api.simplisafe.com
 api.skimlinks.mgr.consensu.org
+api.snapkit.com
 api.speedspot.org
 api.st-av.net
 api.storyly.io
@@ -19231,6 +19233,7 @@ event-man.com
 event.facebook.com
 event.mi.com
 eventagram.com
+eventbus.intuit.com
 eventdance.com.pl
 eventflags.com
 eventhub.awasa.microsoft.com
@@ -36942,6 +36945,7 @@ ofertasairis.com
 ofertondelibros.com
 off-roadinternational.com
 offbeattraining.com
+offcnt.intuit.com
 offerbox.com
 offertematerassi.it
 offi.com
@@ -52143,6 +52147,7 @@ trig.com
 triggers.wfxtriggers.com
 trilbytropicals.com
 trillmusic.com
+trinity.platform.intuit.com
 trinitybank.com
 trioba.com
 triodos.be
