@@ -4010,6 +4010,7 @@ api.gravatar.com
 api.hh.ru
 api.immomo.com
 api.intsig.net
+api.intuit.com
 api.io.mi.com
 api.ipgeolocation.io
 api.ipify.org
@@ -12638,6 +12639,7 @@ clients7.google.com
 clients8.google.com
 clients9.google.com
 clientsc.alipay.com
+clientservices.googleapis.com
 clientsidetesticici.facebook.com
 clientstream.launchdarkly.com
 cliff-harvey-angling.co.uk
