@@ -153,6 +153,7 @@
 *.stat.gov.pl
 *.static-app.klaviyo.com
 *.static-forms.klaviyo.com
+*.storage.googleapis.com
 *.strpst.com
 *.syn-alias.com
 *.teams.live.com
