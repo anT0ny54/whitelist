@@ -43862,6 +43862,7 @@ s3-eu-west-1.amazonaws.com
 s3-iad-2.cf.dash.row.aiv-cdn.net
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3-us-west-2.amazonaws.com
+s3.*.scw.cloud
 s3.amazonaws.com
 s3.ap-northeast-2.amazonaws.com
 s3.ap-south-1.amazonaws.com
@@ -53317,6 +53318,7 @@ vobasandhofen.de
 vobawhv.de
 vobis.pl
 voc.org.vn
+vod.detik.com
 vod.pl
 vod.tvp.pl
 vod2.kaltura.com
