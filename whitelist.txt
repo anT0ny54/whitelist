@@ -107,6 +107,7 @@
 *.nexusrules.officeapps.live.com
 *.ntp-fireos.com
 *.o9.de
+*.onesignal.com
 *.osi.office.net
 *.passport.yandex.ru
 *.pdc.micloud.xiaomi.net
