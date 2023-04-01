@@ -177,6 +177,7 @@
 *.videorolls.row.aiv-cdn.net
 *.wdtinc.com
 *.widget.cloud.opta.net
+*.wsj.net
 *.www-googletagmanager.l.google.com
 *.xp.apple.com
 *.ytimg.com
@@ -12601,6 +12602,7 @@ clickgolf.co.uk
 clickhouse.com
 clickmeter.com
 clicks.aweber.com
+clicks.mlsend.com
 clickserve.cc-dt.com
 clickserve.dartsearch.net
 clickthecookie.co.uk
@@ -55091,6 +55093,7 @@ xzb.cc
 y-coach.com
 y0.cn
 y6p.ru
+yacy.net
 yads.c.yimg.jp
 yaegaki-kai.be
 yagiay.com
