@@ -127,6 +127,8 @@
 *.riotpixels.net
 *.rtl-relay.iocnt.net
 *.safebrowsing.apple
+*.samsungapps.com
+*.samsungapps.com.wtxcdn.com
 *.scarf.sh
 *.scdn.co
 *.sch.gr
@@ -44144,6 +44146,8 @@ samssteins.com
 samstagsales.com
 samstores.com
 samsung.com
+samsungapps.com
+samsungapps.com.wtxcdn.com
 samsungcloud.tv
 samsungcloudsolution.com
 samsungcloudsolution.net
@@ -49084,6 +49088,7 @@ storagea2z.com
 storagebeds.com
 storaskor.se
 storate.googleapis.com
+store*.gofile.io
 store-galore.co.uk
 store-images.microsoft.com
 store-images.s-microsoft.com
