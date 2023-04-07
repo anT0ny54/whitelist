@@ -17,6 +17,7 @@
 *.api.brightcove.com
 *.api.intuit.com
 *.api.iris.microsoft.com
+*.api.miwifi.com
 *.app.link
 *.apps.apple.com
 *.arc.epoq.de
@@ -13534,6 +13535,7 @@ content-storage-download.googleapis.com
 content-storage.googleapis.com
 content.aimatch.com
 content.cptrack.de
+content.ctfs.com
 content.ibanking-services.com
 content.incapsula.com
 content.jwplatform.com
@@ -31356,6 +31358,7 @@ libertysavings.com
 libertyvillebank.com
 library.microsoft.com
 librarything.com
+librefutboltv.com
 lic-cdn.apps.microsoft.com
 lic.apps.microsoft.com
 licdn.com
@@ -47228,6 +47231,8 @@ sockenshop.ch
 sockenwolle-hoh.de
 sockenwolle-und-mehr.de
 sockgenie.com
+sockjs-eu.pusher.com
+sockjs.pusher.com
 socklocker.com
 sockpro.com
 socksfox.com
@@ -51796,6 +51801,7 @@ thriftpuzzle.facebook.com
 throwblanket.com
 thsbank.com
 thumb.highdeliveryscdn.com
+thumbs*.externulls.com
 thumbs-015.externulls.com
 thumbs.videopress.com
 thumbs2.imgbox.com
