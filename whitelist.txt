@@ -4043,6 +4043,7 @@ api.mapbox.com
 api.media.jio.com
 api.medium.com
 api.micloud.xiaomi.net
+api.miwifi.com
 api.monitor.azure.com
 api.myteamspeak.com
 api.narrativ.com
@@ -51802,7 +51803,6 @@ throwblanket.com
 thsbank.com
 thumb.highdeliveryscdn.com
 thumbs*.externulls.com
-thumbs-015.externulls.com
 thumbs.videopress.com
 thumbs2.imgbox.com
 thundervalleyraceway.com
@@ -52110,6 +52110,7 @@ track.nzz.ch
 track.productsup.io
 track.seadform.net
 track.shoparize.com
+track.spe.schoolmessenger.com
 track.ucas.com
 track.webgains.com
 track.yw56.com.cn
