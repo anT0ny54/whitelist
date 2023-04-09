@@ -969,7 +969,7 @@
 9monthsandmore.co.uk
 9rules.com
 9to5google.com
-a*.ds*.akamai.net
+a*.d*.akamai.net
 a-1beerprints.com
 a-1net.com
 a-1uniform.com
@@ -52125,6 +52125,7 @@ trackcmp.net
 trackenterprises.com
 tracker*.namitiyu.com
 tracker*.scoober.com
+tracker.dominos.com
 tracker.marinsm.com
 tracker.opentrackr.org
 tracking-protection.cdn.mozilla.net
