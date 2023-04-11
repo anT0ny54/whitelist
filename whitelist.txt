@@ -79,6 +79,7 @@
 *.googletagmanager.com
 *.googlevideo.com
 *.gph.easebar.com
+*.gs-loc.apple.com
 *.images-amazon.com
 *.images.core.optasports.com
 *.imgix.datadoghq.com
@@ -12021,6 +12022,7 @@ chinesetapes.com
 chinmi-sunahara.com
 chinois-cinq.com
 chip.com.tr
+chip.de
 chipmancoins.com
 chipmark.com
 chipperjones.com
@@ -33171,6 +33173,7 @@ mediserv.info
 meditationgeneration.com
 medium.com
 medium.freecodecamp.org
+medium.ngtv.io
 medizinshop.de
 medpex.de
 medprice.fr
@@ -52319,6 +52322,7 @@ turkishbankers.org
 turkishbanks.com
 turkiye.gov.tr
 turkiyefinans.com.tr
+turnip.cdn.turner.com
 turo.us
 turtlebaytshirts.com
 tusfiles.net
