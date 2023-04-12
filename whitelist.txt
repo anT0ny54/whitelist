@@ -54,6 +54,7 @@
 *.doppiocdn.com
 *.dvsdvsdvsdva.com
 *.eaglecdn.com
+*.edge.experimentation.intuit.com
 *.email*.office.com
 *.email.microsoftemail.com
 *.email.microsoftonline.com
@@ -45223,6 +45224,7 @@ selectrosescanada.com
 selectseeds.com
 selene.pl
 selenium-release.storage.googleapis.com
+selezen.net
 self.events.data.microsoft.com
 selfbank.es
 selfexpressions.com
