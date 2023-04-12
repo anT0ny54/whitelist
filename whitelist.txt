@@ -207,7 +207,6 @@
 *graph.facebook.com
 *graph.fbpigeon.com
 *graph.instagram.com
-*mssdk*.tiktokv.com
 *ocsp.microsoft.com
 *paypal*.siteintercept.qualtrics.com
 *spotify-com.akamaized.net
@@ -13513,6 +13512,7 @@ consumables.co.nz
 consumabulbs.com
 consumating.com
 consumersbank.com
+contaboserver.net
 contabostorage.com
 contact-eye.com
 contact-uk.com
@@ -16460,6 +16460,7 @@ dms.metlife.ru
 dmzdesigns.com
 dn.se
 dnaboards.com
+dnainfotel.com
 dnaproductsonline.com
 dnb.no.edgekey.net
 dnhour.com
@@ -23520,6 +23521,7 @@ goldengatecoins.com
 goldengirldesigns.com
 goldengrail.com
 goldenharvestcandles.com
+goldenline.pl
 goldenmine.com
 goldenpaints.com
 goldenpay.az
@@ -25772,6 +25774,7 @@ hittat.se
 hittingacademy.com
 hittingvideo.com
 hivemodern.com
+hivesocial.app
 hiwheel.com
 hjartdalbanken.no
 hjelmeland-sparebank.no
@@ -39454,6 +39457,7 @@ phoenixprec.com
 phoenixsavings.com
 phoenixtent.com
 phone.facebook.com
+phonearena.com
 phonecallapi.micloud.xiaomi.net
 phonecards.se
 phonecardspin.com
@@ -52223,6 +52227,7 @@ triathlondebelfort.fr
 triathlonvalleedeslacs.com
 trib.al
 tribe.net
+tribel.com
 trick.ly
 tricountybank.com
 trifuel.com
@@ -52282,6 +52287,7 @@ trustedid.com
 trustedshops.com
 trustmark.com
 trustpilot.com
+truthsocial.com
 try.abtasty.com
 tryrugby.co.uk
 tryspeedskating.com
