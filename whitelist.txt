@@ -69,6 +69,7 @@
 *.execute-api.*.amazonaws.com
 *.export.yandex.ru
 *.fbcdn.net
+*.find.api.micloud.xiaomi.net
 *.forms.office.com
 *.fundingchoicesmessages.google.com
 *.gateway.devices.a2z.com
@@ -3444,6 +3445,7 @@ analitik.edevlet.gov.tr
 analysis*.chess.com
 analysis*.chess.com.cdn.cloudflare.net
 analytics.barnebys.sh
+analytics.icis.com
 analytics.shopify.com
 analytics.twitter.com
 analyticsinsights-pa.googleapis.com
@@ -19408,6 +19410,7 @@ exclusivelythomas.com
 exclusivelyweddings.com
 execstyle.com
 execute.be
+execution-ci360.flypgs.com
 executive-champagne.com
 executive-shaving.co.uk
 executiveawards.com
