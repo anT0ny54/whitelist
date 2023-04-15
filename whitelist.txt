@@ -84,6 +84,7 @@
 *.googlevideo.com
 *.gph.easebar.com
 *.gs-loc.apple.com
+*.ilan.gov.tr
 *.images-amazon.com
 *.images.core.optasports.com
 *.imgix.datadoghq.com
@@ -10110,6 +10111,7 @@ c0.wp.com
 c00.adobe.com
 c1.ch1.adcenterapi.microsoft.com
 c1.microsoft.com
+c2*.piano.io
 c2-migration.car.jp.chan.kaw.cb3.glbdns.microsoft.com
 c2-migration.career.jp.chan.kaw.cb3.glbdns.microsoft.com
 c2-migration.sports.jp.chan.kaw.cb3.glbdns.microsoft.com
@@ -29305,6 +29307,7 @@ js-cd.mmtcdn.com
 js-sec.indexww.com
 js-technology.com
 js.captcha-display.com
+js.duhnet.tv
 js.gleam.io
 js.hsforms.net
 js.indexww.com
@@ -53725,6 +53728,7 @@ vystarcu.org
 w-saarplus.de
 w.apprep.smartscreen.microsoft.com
 w.facebook.com
+w1.buysub.com
 w1.web.whatsapp.com
 w1p.fr
 w2.web.whatsapp.com
