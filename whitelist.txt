@@ -41,6 +41,8 @@
 *.ceros.com
 *.change.org.cdn.cloudflare.net
 *.chatra.io
+*.clarity.dexcom.com
+*.clarity.dexcom.com.cdn.cloudflare.net
 *.cloud.axiadids.net
 *.cname.campaign.adobe.com
 *.contabostorage.com
@@ -491,6 +493,7 @@
 1ofakindbuys.com
 1ofakindstuff.com
 1on1.net
+1p.edge2.salesforce.com
 1partysuppliesandfavors.com
 1password.ca
 1password.com
@@ -11264,6 +11267,7 @@ cdn.pcbeta.attachment.inimc.com
 cdn.pcbeta.css.inimc.com
 cdn.pcbeta.static.inimc.com
 cdn.perfdrive.com
+cdn.petametrics.com
 cdn.playready.microsoft.com
 cdn.plyr.io
 cdn.polyfill.io
@@ -35437,6 +35441,7 @@ n-events.net
 n-flora.com
 n-ice.de
 n-ion.com
+n.edge2.salesforce.com
 n.facebook.com
 n26.com
 n2itstore.com
@@ -53232,6 +53237,7 @@ videopress.com
 videoproc.com
 videos-fms.jwpsrv.com
 videos.files.wordpress.com
+videos.filmstarts.de
 videos.kino.de
 videos.porndig.com
 videos.videopress.com
