@@ -54603,6 +54603,7 @@ www.free.facebook.com
 www.ftp.chocolatey.org
 www.futuresite.register.com
 www.gadgetsnow.com
+www.gaia.com
 www.gcm-preprod.googleapis.com
 www.gcm-xmpp.googleapis.com
 www.gdcsite.cdnsrv.jio.com
