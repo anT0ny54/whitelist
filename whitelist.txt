@@ -31349,6 +31349,7 @@ licensecode.one.microsoft.com
 licensedpackages.chocolatey.org
 licenses.adobe.com
 licenses.ashampoo.com
+licensing.bitmovin.com
 licensing.drm.microsoft.com
 licensing.md.mp.microsoft.com
 licensing.mp.microsoft.com
