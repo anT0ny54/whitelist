@@ -52073,6 +52073,7 @@ tracker*.namitiyu.com
 tracker*.scoober.com
 tracker-g.aiscore.com
 tracker.dominos.com
+tracker.gpcdn.pl
 tracker.marinsm.com
 tracker.opentrackr.org
 tracking-protection.cdn.mozilla.net
@@ -53794,6 +53795,7 @@ web.esd.microsoft.com
 web.facebook.com
 web.hellenicbank.com
 web.pcbeta.com
+web.snrbox.com
 web.usebutton.com
 web.whatsapp.com
 web2.lyncweb.microsoft.com
