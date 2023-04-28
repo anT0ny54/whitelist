@@ -16479,6 +16479,7 @@ dnt.de
 dnvturnings.com
 do-itmolds.com
 doatyleather.com
+dob.jp
 dobbiesflorist.com
 dobegecollectables.co.uk
 dobrakoupe.cz
@@ -16599,6 +16600,8 @@ dogtree.co.jp
 dogvanes.com
 dogwise.com
 doh.asia.dnswarden.com
+doh.dns.apple.com
+doh.dns.apple.com.v.aaplimg.com
 doh.dnswarden.com
 doh.eu.dnswarden.com
 doh.us.dnswarden.com
@@ -32638,7 +32641,11 @@ mashreqbank.com
 mashumashu.com
 masik.ru
 masimes.co.uk
+mask-api.icloud.com
+mask-h2.icloud.com
+mask.apple-dns.net
 mask.co.jp
+mask.icloud.com
 maskedexpressions.com
 maskerville.com
 maskitalia.com
@@ -39163,6 +39170,7 @@ personalesscents.com
 personalisedbanners.co.uk
 personalisedgiftideas.co.uk
 personalisedsilver.co.uk
+personalization.bloomberg.com
 personalizationmall.com
 personalized-creations.com
 personalized-doormats.com
@@ -47471,6 +47479,7 @@ source.facebook.com
 sourcebiofly.com
 sourcebmx.com
 sourcepoint.theguardian.com
+sourcepointcmp.bloomberg.com
 sourcing4u.co.uk
 sourl.cn
 sourpussclothing.com
@@ -55065,6 +55074,7 @@ xmasexpress.com
 xmpp-server.l.google.com
 xmppx.l.google.com
 xmpush.xiaomi.com
+xmr.2miners.com
 xn--80aae3af7av6a7a.xn--p1ai
 xn--allestrungen-9ib.de
 xn--httenberger-bank-jzb.de
