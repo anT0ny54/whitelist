@@ -19,7 +19,6 @@
 *.api.iris.microsoft.com
 *.api.miwifi.com
 *.app.asana.com
-*.app.link
 *.apps.apple.com
 *.arc.epoq.de
 *.asynchronousmessaging.dashboard.co.uk
@@ -15394,6 +15393,7 @@ deafsports.org.au
 dealcomet.com
 dealdeouf.com
 dealer-ship.com
+dealer.spotify.com
 dealigg.com
 dealmountain.com
 deals.kinja.com
@@ -42571,6 +42571,7 @@ redcoon.pt
 redd.it
 reddestdream.github.io
 reddiamondonline.com
+reddit.app.link
 reddit.com
 redditchrugbyclub.com
 redditmedia.com
