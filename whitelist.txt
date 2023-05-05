@@ -50,6 +50,7 @@
 *.cname.campaign.adobe.com
 *.contabostorage.com
 *.controld.com
+*.curve.app
 *.custom-domain.publitas.com
 *.damoh.*.de
 *.data-*.rtl.de
@@ -30483,6 +30484,7 @@ kiwibank.co.nz
 kiwibox.com
 kiwibrowser.com
 kiwijewels.com
+kiwisearchservices.com
 kiwitreats.com
 kixxonline.com
 kiyokawaya.com
@@ -35829,6 +35831,7 @@ ncsx.com
 nctrailblazers.org
 ndba.com
 ndbc.org
+ndirect.ppro.de
 ndm-girls-softball.com
 ndr.org
 nds1.webapps.microsoft.com
@@ -42957,6 +42960,7 @@ reurl.cc
 reusablebags.com
 reut.rs
 revampvintage.com
+revanced.io
 revedecime.com
 revelationimports.com
 revelenterprises.com
