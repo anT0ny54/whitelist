@@ -145,6 +145,7 @@
 *.pubnub.com
 *.push.apple.com
 *.pv-cdn.net
+*.quicns.com
 *.registerdisney.go.com
 *.relay-client-c03.iocnt.net
 *.rewardsplatform.microsoft.com
@@ -14635,6 +14636,7 @@ curthel.com
 curtisboehringer.com
 curtisbrae.co.uk
 curtissportconnection.com
+curve.app
 curvesncombatboots.com
 cuscostores.com
 cushcity.com
@@ -27521,6 +27523,7 @@ img.alicdn.com.danuoyi.alicdn.com
 img.brightcove.com
 img.connatix.com
 img.digitaltrends.com
+img.ekstat.com
 img.elephantjournal.com
 img.ihreapotheken.de
 img.mmtcdn.com
@@ -41558,6 +41561,7 @@ quicksafe.co.uk
 quickshipeurope.com
 quicktrophy.com
 quickuk.co.uk
+quicns.com
 quiestlemoinscher.com
 quietheadphones.com
 quiethorizons.com
