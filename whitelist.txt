@@ -1,5 +1,4 @@
 *-boot.tiktok*.com
-*.acdsystems.com
 *.acsechocaptiveportal.com
 *.activity.windows.com
 *.adguard-dns.com
@@ -55184,7 +55183,6 @@ xtra2.xboxprod.izatcloud.net
 xtra3.gpsonextra.net
 xtra3.xboxprod.izatcloud.net
 xtra4.gpsonextra.net
-xtracloud.net
 xtrapath*.izatcloud.net
 xtrapath*.xtracloud.net
 xtrapath1.izatcloud.net
