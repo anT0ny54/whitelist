@@ -1,4 +1,5 @@
 *-boot.tiktok*.com
+*.a2hosted.com
 *.acsechocaptiveportal.com
 *.activity.windows.com
 *.adguard-dns.com
@@ -108,6 +109,7 @@
 *.kiwibrowser.com
 *.lencr.org
 *.mail.onedrive.com
+*.marinetraffic.com
 *.maxmind.com
 *.mc.cubecdn.net
 *.mcsvc.samsung.com
@@ -3482,6 +3484,7 @@ analitik.edevlet.gov.tr
 analysis*.chess.com
 analysis*.chess.com.cdn.cloudflare.net
 analytics.barnebys.sh
+analytics.halkbank.com.tr
 analytics.icis.com
 analytics.shopify.com
 analytics.twitter.com
@@ -32523,6 +32526,7 @@ maritimebank.com
 maritimshop2000.de
 marjories.com
 mark-k-inc.com
+mark.isbank.com.tr
 markab.com.pl
 markards.com
 markastore.ro
