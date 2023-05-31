@@ -112,6 +112,7 @@
 *.kiwibrowser.com
 *.kwrn.eu
 *.lencr.org
+*.lighthouselabs.eu
 *.mail.onedrive.com
 *.marinetraffic.com
 *.maxmind.com
