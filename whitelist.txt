@@ -50024,6 +50024,7 @@ surveillance-video.com
 survey*.medallia.eu
 survey.foreseeresults.com
 survey.forseeresults.com
+survey.qualtrics.com
 survey.watson.microsoft.com
 surveymonkey.com
 surveymyopinion.researchnow.com
