@@ -21,6 +21,9 @@
 *.api.iris.microsoft.com
 *.api.miwifi.com
 *.app.asana.com
+*.apple-dns.net
+*.apple.com.akadns.net
+*.apple.com.edgekey.net
 *.apps.apple.com
 *.apps.apple.com.edgekey.net
 *.arc.epoq.de
@@ -13557,7 +13560,6 @@ config.wmc.metaservices.microsoft.com
 configprd.samsungcloudsolution.net
 configuration.apple.com
 configuration.apple.com.akadns.net
-configuration.apple.com.edgekey.net
 configurator.microsoft.com
 confirmit.com
 conforama.fr
@@ -33326,6 +33328,7 @@ media.amlg.io
 media.architecturaldigest.com
 media.arstechnica.com
 media.arstechnica.net
+media.beehiiv.com
 media.complex.com
 media.directory.google.com
 media.drive.google.com
