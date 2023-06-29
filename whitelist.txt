@@ -260,7 +260,11 @@
 *graph.instagram.com
 *logfiles.zoom.us
 *mcs*.byteoversea.com
+*mcs*.snssdk.com
 *mcs*.tiktok*.com
+*mssdk*.byteoversea.com
+*mssdk*.snssdk.com
+*mssdk*.tiktok*.com
 *ocsp.microsoft.com
 *paypal*.siteintercept.qualtrics.com
 *pitaya*.byteoversea.com
@@ -33249,7 +33253,6 @@ mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com
 mcquerryorchidbooks.com
 mcrgifts.com
 mcrok.com
-mcs-va.tiktokv.com
 mcsbnh.com
 mcsnet.nl
 mcsoywax.com
@@ -34599,7 +34602,10 @@ momslinenchest.com
 momsteam.com
 momthoughts.com
 momwitch.com
-mon*-*.tiktok*.com
+mon*-checkout-*.tiktok*.com
+mon*-normal-*.tiktok*.com
+mon*-platform-*.tiktok*.com
+mon*-tmp-*.tiktok*.com
 mon-joujou.com
 monaco-f1grandprix.com
 monaco-privatebanking.com
@@ -35149,8 +35155,6 @@ msrbeta.research.microsoft.com
 msrcmt.research.microsoft.com
 msrcorp.com
 msrn.research.microsoft.com
-mssdk*-*.tiktok*.com
-mssdk-va.tiktok*.com
 mssl.fwmrm.net
 mssl.fwmrm.net.edgesuite.net
 msuc02.manage.microsoft.com
