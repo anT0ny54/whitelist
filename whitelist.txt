@@ -238,6 +238,7 @@
 *.vortex.data.trafficmanager.net
 *.wdtinc.com
 *.widget.cloud.opta.net
+*.wishpond.com
 *.wsj.net
 *.www-googletagmanager.l.google.com
 *.xp.apple.com
@@ -14654,6 +14655,7 @@ ct.pinterest.com
 ct.sendgrid.net
 ct.techrepublic.com
 ct.yimg.com
+cta-redirect.hubspot.com
 ctbcbank.com
 ctcbonline.com
 ctdollartists.com
