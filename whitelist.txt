@@ -9832,6 +9832,7 @@ buenavistagemworks.com
 buengolpe.com
 buero55.de
 buerodepot.com
+bueroforum.net
 bueroplus.de
 buff.ly
 buffalo-grill.fr
@@ -11448,6 +11449,7 @@ cdnhwc1.com
 cdninstagram.com
 cdnjs.cloudflare.co
 cdnjs.cloudflare.com
+cdnjs.tacool.com
 cdns-content.dzcdn.net
 cdns.gigya.com
 cdnsecakmi.kaltura.com
@@ -21411,6 +21413,7 @@ fmsb4me.com
 fmsnutrition.com
 fmtc.co.uk
 fmub.com
+fn-captcha.tacool.com
 fnac.com
 fnac.com.br
 fnac.eulerian.net
@@ -35155,6 +35158,7 @@ msrbeta.research.microsoft.com
 msrcmt.research.microsoft.com
 msrcorp.com
 msrn.research.microsoft.com
+mssdk-va.tiktok*.com
 mssl.fwmrm.net
 mssl.fwmrm.net.edgesuite.net
 msuc02.manage.microsoft.com
@@ -46306,6 +46310,7 @@ shopheroes-data.storage.googleapis.com
 shophometrends.com
 shopibs.com
 shopify.com
+shopifycdn.com
 shopinatlanta.com
 shopincities.com
 shopinhalifax.com
@@ -46925,6 +46930,7 @@ sixrivers.com
 sixstardj.com
 siyanks.com
 sizeappeal.com
+sizyreelingly.com
 sizzix.com
 sj.uukanshu.com
 sjbarons.com
@@ -52251,6 +52257,7 @@ tiggypig.com
 tighturl.com
 tik-tokapi.com
 tik.lat
+tikamoon.com
 tikiripolynesianinstruments.com
 tikker.emta.ee
 tiktok.com
@@ -52543,6 +52550,7 @@ tracker.gpcdn.pl
 tracker.leechers-paradise.org
 tracker.marinsm.com
 tracker.opentrackr.org
+tracker.torrentbd.net
 tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
 tracking-website-prod-674464163.us-east-1.elb.amazonaws.com
