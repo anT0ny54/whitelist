@@ -47,6 +47,7 @@
 *.cdn.turner.com
 *.cdnhwc1.com
 *.cdninstagram.com
+*.cdpsvc.lgtvcommon.com
 *.cdx.cedexis.net
 *.ceros.com
 *.change.org.cdn.cloudflare.net
@@ -169,6 +170,7 @@
 *.pushmessage.samsung.com
 *.pv-cdn.net
 *.quicns.com
+*.recommend.lgtvcommon.com
 *.registerdisney.go.com
 *.relay-client-c03.iocnt.net
 *.rewardsplatform.microsoft.com
