@@ -3360,6 +3360,7 @@ americandogbeds.com
 americanetching.com
 americanexpress.com
 americanexpress.com.au
+americanexpress.com.ssl.d2.sc.omtrdc.net
 americanfederalsavingsbank.com
 americanflagcenter.com
 americanflags.com
@@ -12775,6 +12776,7 @@ clickufficio.it
 client-bank.itbank.ru
 client-event-reporter.twitch.tv
 client-s.gateway.messenger.live.com
+client-stream-events.mtg-api.com
 client-uc.heytapmobi.com
 client.cdn77.com
 client.crisp.chat
@@ -13597,6 +13599,7 @@ conkershoes.com
 conleys.de
 conlin.de
 connatix.com
+connect-line.gr
 connect.auone.jp
 connect.facebook.com
 connect.facebook.net
@@ -26898,6 +26901,7 @@ hvac-webdirect.com
 hvidbjergbank.dk
 hvidevaredele.dk
 hvrenegades.com
+hw.zuimeitianqi.com
 hwangelshop.de
 hwataibank.com.tw
 hwildflower.com
@@ -28793,6 +28797,7 @@ jagdartikelshop.de
 jagdversand.com
 jagengines.com
 jaghobbies.com
+jagoketik.com
 jagos-aquarium.de
 jagsassn.org
 jaguars.jacksonville.com
@@ -31887,6 +31892,7 @@ loebbecke-bank.de
 loftykids.com
 log-upload-os.mihoyo.com
 log-upload.mihoyo.com
+log.tresorit.com
 log.uniconsent.mgr.consensu.org
 log2shop.com
 logcabinarts.com
@@ -37630,6 +37636,7 @@ omnimap.com
 omnimodels.com
 omnisportstech.com
 omnitronelectronics.net
+omns.americanexpress.com
 omoidekobo.com
 omplanete.com
 omroepbrabant.bbvms.com
