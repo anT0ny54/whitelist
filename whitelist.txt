@@ -679,6 +679,7 @@
 24-sporternaehrung.de
 24.comertbank.md
 24.lv
+24auto.de
 24banking.md
 24banking.ro
 24h-bildexpress.de
@@ -11375,6 +11376,7 @@ cdn.jscloudflare.com
 cdn.jsdelivr.net
 cdn.jwplayer.com
 cdn.kaltura.com
+cdn.listrakbi.com
 cdn.livechat.com.edgekey.net
 cdn.livechatinc.com
 cdn.mediavoice.com
@@ -49767,6 +49769,7 @@ styloweprezenty.pl
 styluscentral.com
 su.pr
 suavecito.com
+sub.ykimg.com
 subarumysubaruappproduction.112.2o7.net
 subastacr.com
 sube.garantibbva.com.tr
@@ -55367,6 +55370,7 @@ www.sitepoint.com
 www.sitesell.com
 www.skimresources.com
 www.slack.com
+www.smartnews.be
 www.smashingmagazine.com
 www.snapdeal.com
 www.space.com
