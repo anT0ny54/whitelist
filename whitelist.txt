@@ -20631,6 +20631,7 @@ file-extensions.org
 file.dingtalk.com
 file.market.xiaomi.com
 file2fxm.azureedge.net
+filebroker-cdn.lazada.*
 filedropper.com
 filefactory.com
 filehorse.com
@@ -34648,6 +34649,7 @@ momsteam.com
 momthoughts.com
 momwitch.com
 mon*-checkout-*.tiktok*.com
+mon*-i*.tiktok*.com
 mon*-normal-*.tiktok*.com
 mon*-platform-*.tiktok*.com
 mon*-tmp-*.tiktok*.com
