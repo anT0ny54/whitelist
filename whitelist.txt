@@ -21667,6 +21667,7 @@ formasoave.jp
 formel-1gp.de
 forms.convertkit.com
 forms.gle
+forms.yandex.com
 formspree.io
 formstack.com
 formula1.com
@@ -22607,6 +22608,7 @@ gamedayspirit.com
 gamedaysports.net
 gamediggity.com
 gamefly.com
+gameforge.com
 gamejam.co.uk
 gameland.nl
 gameloaded.co.uk
@@ -54040,6 +54042,8 @@ volleyballact.com.au
 volleyballseek.com
 volstatebank.com
 volvofinans.se
+voodoo-tech.io
+voodoo.io
 vorbank.dk
 vorne.de
 vortex-sandbox.data.glbdns2.microsoft.com
