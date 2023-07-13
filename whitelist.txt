@@ -68,6 +68,7 @@
 *.dev.virtualearth.net
 *.digicert.com
 *.doppiocdn.com
+*.dropbox-dns.com
 *.dvsdvsdvsdva.com
 *.eaglecdn.com
 *.edge.experimentation.intuit.com
@@ -4139,6 +4140,7 @@ api.datawrapper.de
 api.dds.microsoft.com
 api.device.xiaomi.net
 api.ditto.com
+api.dropboxapi.com
 api.ebay-kleinanzeigen.de
 api.eu-west-1.aiv-delivery.net
 api.facebook.com
@@ -13664,6 +13666,7 @@ consent-pref.trustarc.com
 consent.cmp.oath.com
 consent.cookiebot.eu
 consent.dk
+consent.dropbox.com
 consent.faz.net
 consent.google.com
 consent.trustarc.com
@@ -18277,6 +18280,7 @@ edge-web.dual-gslb.spotify.com
 edge-weighted.api.brightcove.com
 edge-z-p3-shv-01-arn2.facebook.com
 edge.api.brightcove.com
+edge.dropboxstatic.com
 edge.experimentation.intuit.com
 edge.quantserve.com
 edge.yunjiasu.com
@@ -52366,6 +52370,7 @@ timbrasil.m.facebook.com
 timbrauch.com
 time-a.timefreq.bldrdoc.gov
 time-frames.com
+time.akamai.com
 time.com
 time.gpsonextra.net
 time.izatcloud.net
