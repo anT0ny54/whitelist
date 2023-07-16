@@ -1246,6 +1246,10 @@ aacctv.com
 aacsports.com
 aaczechglass.com
 aade.com
+aadrm.cn
+aadrm.com
+aadrm.de
+aadrm.us
 aafes.com
 aafilters.com
 aafla.org
@@ -5119,6 +5123,7 @@ assets.pinterest.com
 assets.rbl.ms
 assets.realclear.com
 assets.rebelmouse.io
+assets.sentinelone.com
 assets.sitescdn.net
 assets.ubuntu.com
 assets.zendesk.com
