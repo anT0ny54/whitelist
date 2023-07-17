@@ -83,6 +83,7 @@
 *.email.microsoftemail.com
 *.email.microsoftonline.com
 *.email.microsoftrewards.com
+*.emails.microsoft.com
 *.engage.surface.com
 *.engage.windows.com
 *.engage.xbox.com
@@ -4116,6 +4117,7 @@ api-godaddy.nd.nudatasecurity.com
 api-hphp-05-01-ash1.facebook.com
 api-hphp-05-01-sf2p.facebook.com
 api-mainnet.pool.space
+api-maps.yandex.ru
 api-read.facebook.com
 api-secure.solvemedia.com
 api-tv.spotify.com
@@ -6410,6 +6412,7 @@ banking-wuestenrotdirect.de
 banking.airbusbank.com
 banking.axa.de
 banking.co.at
+banking.coastcapitalsavings.com
 banking.guarantee.ru
 banking.haspa.de
 banking.ing-diba.at
@@ -6418,6 +6421,7 @@ banking.ksk-stade.de
 banking.postbank.de
 banking.raiffeisen.at
 banking.rostocker-vrbank.de
+banking.servus.ca
 banking.sparkasse-mittelsachsen.de
 banking.sparkasse-nienburg.de
 banking.sparkasse-prignitz.de
@@ -6468,6 +6472,7 @@ bankofkazan.ru
 bankoflouisiana.com
 bankoflouisville.com
 bankofmaharashtra.in
+bankofmaldives.com.mv
 bankofmapleplain.com
 bankofmarin.com
 bankofmonticello.com
@@ -6996,6 +7001,7 @@ bbuseruploads.s3.amazonaws.com
 bbva.com.ar
 bbva.com.co
 bbva.es
+bbva.mx
 bbvaprovinet.provincial.com
 bc.bankdolinsk.ru
 bc.banksmb.ru
@@ -9205,6 +9211,7 @@ boro.co.jp
 borregospringsbank.com
 borstvoedingswinkel.nl
 bosanquetflorist.com
+bosbank24.pl
 bosch-professional.com
 boschbuy.ru
 boscovs.com
@@ -10336,6 +10343,7 @@ ca-toulousain.fr
 ca-tourainepoitou.fr
 ca.gravatar.com
 ca.pool.ntp.org
+ca24.credit-agricole.pl
 caasports.com
 cab-bike.de
 caballos.ch
@@ -12487,6 +12495,7 @@ cissports.com
 cistrix.com
 citarella.com
 citeulike.org
+citi.com
 citi.online-metrix.net
 citially.com
 citibank.co.id
@@ -12501,6 +12510,7 @@ citibank.com.sg
 citibank.com.tw
 citibank.ru
 citibankonline.com
+citibankonline.pl
 citidirectbeportalemea.citidirect.com
 citifloral.com
 citiscapes-art.com
@@ -16293,6 +16303,7 @@ digistore.fr
 digital-camera-online.com
 digital-threads.com
 digital-trendz.com
+digital.bankaust.com.au
 digital.noorbank.com
 digitaladvisor-elb.go2cloud.org
 digitalangel.ru
@@ -17686,6 +17697,7 @@ e.orange.fr
 e.paba.hr
 e.reddit.com
 e.seb.lt
+e.sfcu.org
 e0.0.0.0l-gr.facebook.com
 e081.com
 e1.whatsapp.net
@@ -17709,6 +17721,7 @@ e18.whatsapp.net
 e19.whatsapp.net
 e2.whatsapp.net
 e20.whatsapp.net
+e25.pl
 e2725.g.akamaiedge.net
 e29077.dscf.akamaiedge.net
 e3.whatsapp.net
@@ -20084,6 +20097,7 @@ fairylandcreations.com
 fairylove.com
 fairys.com
 fairys.nl
+faisanet.mib.com.mv
 faith-silver.com
 faith.co.uk
 faithfulhound.com
@@ -24107,6 +24121,7 @@ googlesyndication.com
 googletagmanager.com
 googletagservices.com
 googlevideo.com
+goonline.bnpparibas.pl
 gooo.to
 gooruze.com
 gooseberryhill.com
@@ -26374,6 +26389,7 @@ homeaudiosuperstore.com
 homebank.kz
 homebank.ro
 homebank.tj
+homebanking.bancoctt.pt
 homebanking.sskm.de
 homebodiespatterns.com
 homebookshop.com
@@ -27568,6 +27584,7 @@ idonails.com
 idontdomornings.com
 idoweddingfavours.co.uk
 idratherbequilting.com
+ids.alterna.ca
 idsabooks.com
 idsardar.bizland.com
 idsdental.com
@@ -28228,6 +28245,7 @@ integralsport.fr
 integrations.ru
 integrity.facebook.com
 intelcompras.com
+inteligo.pl
 intelink.gov
 intellectmoney.ru
 intelligentbatteries.com
@@ -30217,6 +30235,7 @@ katzenspezialshop.de
 katzgloves.com
 katzhome.com
 katznmore.com
+kau.gov.hu
 kauaiflowers.com
 kaude.com
 kaufein.ch
@@ -32000,6 +32019,7 @@ login.blockchain.com
 login.bsczarnkow.pl
 login.cloudflarewarp.com
 login.e-taxes.gov.az
+login.erstebank.hu
 login.facebook.com
 login.groove.microsoft.com
 login.ingbank.pl
@@ -32010,11 +32030,13 @@ login.microsoftonline.com
 login.microsoftonline.us
 login.mirakl.net
 login.msa.akadns6.net
+login.nestbank.pl
 login.optumbank.com
 login.salesforce.com
 login.sebbank.ru
 login.sparebank1.no
 login.teamviewer.com
+login.vancity.com
 login.wikimedia.org
 login.yahoo.com
 logincdn.msauth.net
@@ -32454,6 +32476,7 @@ mail.office.hiworks.com
 mail.onedrive.com
 mail.research.microsoft.com
 mail.tsinghua.edu.cn
+mail.tutanota.com
 mail.windows.microsoft.com
 mail.yahoo.com
 mail01.apjfw.rte.microsoft.com
@@ -33774,6 +33797,7 @@ mercysake.com
 meredithtradingpost.com
 merfarby.istore.pl
 meridian-shop.com
+meridiancu.ca
 meridys.com
 merikom.pl
 meritchairman.com
@@ -34419,6 +34443,7 @@ mkklcdnv6tempv4.com
 mkn.co.uk
 mkonlinesavings.com
 mkpens.co.uk
+mkto-*.com
 mktoweb.com
 mktp.tmoney.co.kr
 mkwireless.com
@@ -35526,6 +35551,7 @@ my-wedding-wishes.co.uk
 my-zaim.ru
 my.alfabank.com.ua
 my.aliexpress.com
+my.blackhawkbank.com
 my.bmi.ir
 my.credit-agricole.com.ua
 my.europlanbank.ru
@@ -37858,6 +37884,7 @@ online.bankofcyprus.com
 online.bankotsar.co.il
 online.bankpozitiv.kz
 online.bcs.ru
+online.beobank.be
 online.beyondbank.com.au
 online.binbankcards.ru
 online.bm.ru
@@ -37925,6 +37952,7 @@ online.sh.cn
 online.standardlife.com
 online.svrbank.ru
 online.t-mobilebankowe.pl
+online.techcu.com
 online.tfb.ru
 online.tiscoasset.com
 online.tkbbank.ru
@@ -37991,6 +38019,7 @@ onlinebanking.bank-credit-suisse-moscow.ru
 onlinebanking.brci.ro
 onlinebanking.cargillsbank.com
 onlinebanking.pnc.com
+onlinebanking.rhbgroup.com
 onlinebanking.usbank.com
 onlinebedcomforters.com
 onlinebilder24.de
@@ -39606,6 +39635,7 @@ persianflora.com
 persianfootball.com
 persim.net
 personaactivewear.com
+personal.affinitycu.ca
 personal.metrobankdirect.com
 personalbabyblankets.com
 personalbank.ru
@@ -40560,6 +40590,7 @@ plus.googleapis.com
 plus.l.google.com
 plus.sandbox.google.com
 plus.url.google.com
+plusbank24.pl
 plusdvd.nl
 plushinarush.com
 plushjewellery.co.uk
@@ -41507,6 +41538,7 @@ prosource.apj.microsoft.com
 prospeedkartsports.com
 prospekt.aldi-sued.de
 prosper.com
+prospera.oauth.live.central1.cc
 prosperitybanktx.com
 prosperitybankusa.com
 prosperitycreations.com
@@ -42807,6 +42839,7 @@ rb.gy
 rb6.co
 rb6.me
 rba.hr
+rbaccess.rogersbank.com
 rbap.org
 rbb.ic.llnwd.net
 rbbissingen.de
@@ -45592,9 +45625,11 @@ secure.payu.com.tr
 secure.payu.ru
 secure.payza.com
 secure.payza.eu
+secure.pcfinancial.ca
 secure.platononline.com
 secure.prod.facebook.com
 secure.royalbank.com
+secure.seligson.fi
 secure.sirena-travel.ru
 secure.surveymonkey.com
 secure.tcsbank.ru
@@ -45611,6 +45646,8 @@ secure4.segpay.com
 secure5.arcot.com
 secureacceptance.cybersource.com
 secureclock2.playready.microsoft.com
+secured.acu.ca
+secured.scu.mb.ca
 secureinternetbank.com
 securel.longtailvideo.com
 securenetsystems.net
@@ -53000,6 +53037,7 @@ udengi.ru
 udevelop.com
 udogu.com
 udrmv3.kaltura.com
+ue.dnb.pl
 ue.flipboard.com
 ueaeduec.m.facebook.com
 uedata.amazon.com
@@ -53042,10 +53080,12 @@ ultrad.com
 ultradiamonds.com
 ultraiso.net
 ultrunr.com
+umaiclothing.com
 umami.is
 umbank.ru
 umbrellabank.com
 umbrellastand.com
+umcu.org
 umdc.alipay.org
 ume.la
 umiwi.com
@@ -53087,6 +53127,7 @@ unicyclist.com
 unifinbank.ru
 uniformsexpress.com
 union-investment.de
+unionbank.com
 unionbank.de
 unionbankjo.com
 unionbankofblair.com
