@@ -17135,6 +17135,7 @@ download.intsig.net
 download.jp.microsoft.com
 download.microsoft.com
 download.microsoft.com.nsatc.net
+download.oxy.st
 download.skype.com
 download.sonarr.tv
 download.utorrent.com
@@ -43421,6 +43422,7 @@ replug.io
 report-uri.cloudflare.com
 report-uri.com
 report-uri.io
+repository.eset.com
 reprodepot.net
 reproductionfurniture.com
 repropaint.com
