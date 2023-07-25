@@ -53,6 +53,7 @@
 *.cdn.turner.com
 *.cdnhwc1.com
 *.cdninstagram.com
+*.cdntips.net
 *.cdpsvc.lgtvcommon.com
 *.cdx.cedexis.net
 *.ceros.com
@@ -62,6 +63,7 @@
 *.clarity.dexcom.com.cdn.cloudflare.net
 *.click-sap.sfmc-marketing.com
 *.cloud.axiadids.net
+*.cmail19.com
 *.cname.campaign.adobe.com
 *.consentmanager.net
 *.contabostorage.com
