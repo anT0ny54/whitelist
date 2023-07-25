@@ -11472,7 +11472,6 @@ cdn.fontawesome.com
 cdn.gadgets360.com
 cdn.gigya.commes.122.2o7.net
 cdn.gotraffic.net
-cdn.grandvision.io
 cdn.jscloudflare.com
 cdn.jsdelivr.net
 cdn.jwplayer.com
@@ -42645,6 +42644,7 @@ randallsspecialties.com
 randis.com
 randolphsunglasses.co.nz
 randomaccents.com
+randomuser.me
 randoseru.com
 randrbuckles.com
 randwickbloodstock.com.au
