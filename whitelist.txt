@@ -11566,6 +11566,7 @@ cdns-content.dzcdn.net
 cdns.gigya.com
 cdnsecakmi.kaltura.com
 cdnssl.softpedia.com
+cdntips.net
 cdon.no
 cdp.aliexpress.com
 cdp.cloud.unity3d.com
@@ -13080,6 +13081,7 @@ clutch.co.jp
 clutchnet.com
 clyderobin.com
 clydesavings.com
+cmail19.com
 cmb.fr
 cmba.com
 cmba.org
