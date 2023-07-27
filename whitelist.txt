@@ -78,6 +78,7 @@
 *.dds.microsoft.com
 *.dev.virtualearth.net
 *.digicert.com
+*.do-not-tracker.org
 *.doppiocdn.com
 *.dropbox-dns.com
 *.dvsdvsdvsdva.com
@@ -95,6 +96,7 @@
 *.etrality.com
 *.eu.spgo.io
 *.events*.data.microsoft.com
+*.eviltracker.net
 *.exacttarget.com.edgekey.net
 *.execute-api.*.amazonaws.com
 *.export.yandex.ru
@@ -241,6 +243,7 @@
 *.tipico.de
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
+*.trackersimulator.org
 *.tuyacn.com
 *.twibbonize.com.cdn.ezoic.net
 *.unmineable.com
@@ -4251,6 +4254,7 @@ api.snapkit.com
 api.speedspot.org
 api.st-av.net
 api.storyly.io
+api.stripe.com
 api.sunrise-sunset.org
 api.surfeasy.com
 api.t-mobile.com
@@ -42197,6 +42201,7 @@ r.orange.fr
 r.sg.sec.miui.com
 r.skimresources.com
 r.srvtrck.com
+r.stripe.com
 r.us-east-1.awstrack.me
 r.webapps.microsoft.com
 r1.ykimg.com
