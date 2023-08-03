@@ -4220,6 +4220,7 @@ api.jio.com
 api.jr.mi.com
 api.kinja.com
 api.krxd.net
+api.line.me
 api.locize.io
 api.loganalytics.io
 api.mapbox.com
@@ -17769,6 +17770,7 @@ e1.whatsapp.net
 e10.whatsapp.net
 e1020.dscb.akamaiedge.net
 e11.whatsapp.net
+e1102.a.akamaiedge.net
 e11290.dspg.akamaiedge.net
 e1151.e12.akamaiedge.net
 e11956.x.akamaiedge.net
@@ -52707,6 +52709,7 @@ to8.cc
 toadhalltoys.com
 tobias-angerer.de
 tochka.com
+today.line.me.edgekey.net
 todo-ta-g7g.amazon.com
 tofisch.com
 tofukko.r.ribbon.to
