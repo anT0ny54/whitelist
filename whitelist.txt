@@ -68,6 +68,7 @@
 *.cname.campaign.adobe.com
 *.consentmanager.net
 *.contabostorage.com
+*.content.video.llnw.net
 *.controlup.com
 *.createsend1.com
 *.curve.app
