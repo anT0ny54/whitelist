@@ -3658,6 +3658,7 @@ analysis*.chess.com
 analysis*.chess.com.cdn.cloudflare.net
 analytics.barnebys.sh
 analytics.controld.com
+analytics.global.sky.com
 analytics.halkbank.com.tr
 analytics.icis.com
 analytics.shopify.com
@@ -14871,6 +14872,7 @@ ctbcbank.com
 ctcbonline.com
 ctdollartists.com
 ctdovetaildesigns.com
+ctl.prd.bi.getbux.com
 ctldl.windowsupdate.com
 ctp-kunst.de
 ctpub.com
@@ -34098,6 +34100,7 @@ metrics.foxnews.com
 metrics.leaptel.com.au
 metrics.lidl.com
 metrics.plex.tv
+metrics.sky.com
 metrics.torproject.org
 metrics.webapps.microsoft.com
 metrobankonline.co.uk
