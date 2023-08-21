@@ -196,6 +196,7 @@
 *.pipe.aria.microsoft.com
 *.poki-gdn.com
 *.postup.com
+*.pressablecdn.com
 *.primevideo.com
 *.proctor.io
 *.proctorio.com
@@ -4281,6 +4282,7 @@ api.loganalytics.io
 api.mapbox.com
 api.media.jio.com
 api.medium.com
+api.metro.taipei
 api.micloud.xiaomi.net
 api.miwifi.com
 api.monitor.azure.com
@@ -41412,6 +41414,7 @@ preservedflower.jp
 preservedgardens.com
 presidential.com
 presidiogolf.com
+pressablecdn.com
 pressedflower.com
 pressedflowerartandcrafts.com
 pressedflowerartist.com
@@ -55185,6 +55188,7 @@ ws.audioscrobbler.com
 ws.coinbase.com
 ws.grant.ua
 ws.meethue.com
+ws.metro.taipei
 ws.mmstat.com
 ws.msllab.microsoft.com
 ws.pusherapp.com
