@@ -269,6 +269,7 @@
 *.trustev.com
 *.tuyacn.com
 *.twibbonize.com.cdn.ezoic.net
+*.ubiservices.ubi.com
 *.uedas.com.tr
 *.unmineable.com
 *.update.easebar.com
@@ -11599,6 +11600,7 @@ cdn.stream.schibsted.media
 cdn.svp.schibsted.io
 cdn.syndication.twimg.com
 cdn.syndication.twitter.com
+cdn.tagcommander.com
 cdn.tpdads.com
 cdn.transifex.com
 cdn.trustcommander.net
@@ -16516,6 +16518,7 @@ dionissoap.com
 dior.com
 dir-shop.cz
 direc4u.com
+direct*.*proxy*.byteglb.com
 direct-cutlery.com
 direct-go.com
 direct-golf.co.uk
@@ -43312,12 +43315,14 @@ redir.fr
 redir.metaservices.microsoft.com
 redir.tradedoubler.com
 redir.windows.microsoft.com
+redirect*.tagcommander.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.at
 redirect.prod.experiment.routing.cloudfront.aws.a2z.com
 redirect.stripe2.prod.experiment.routing.cloudfront.aws.a2z.com
 redirect.viglink.com
+redirect622.tagcommander.com
 redirectingat.com
 redirector-bigcache.googleapis.com
 redirector.eservice.emarsys.net
@@ -52942,6 +52947,7 @@ tpb.vn
 tpfs.com
 tpmr.com
 tr-netsalesmedia-pl.affex.org
+tr.ee
 tr.facebook.com
 tr.gravatar.com
 tr.im
@@ -53282,6 +53288,7 @@ ubankal.com
 ubdp.com.ua
 uber.m.facebook.com
 uber.space
+ubiservices.data.ubi.com
 ublock.org
 ubmich.com
 uboc.com
