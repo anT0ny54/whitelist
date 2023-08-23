@@ -17253,6 +17253,7 @@ downeastproducts.com
 downeaststainedglass.com
 downhomegirl.com
 downhomemusic.com
+download*.sys.truenas.net
 download-core.sys.truenas.net
 download-lb.utorrent.com
 download-new.utorrent.com
@@ -31774,6 +31775,7 @@ lansforsakringar.se
 lansinglugnuts.com
 lantern.facebook.com
 lanting.com
+lanzouw.com
 laoutback.com
 laposte.net
 laptop-battery.org
