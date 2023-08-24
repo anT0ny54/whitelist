@@ -17254,7 +17254,6 @@ downeaststainedglass.com
 downhomegirl.com
 downhomemusic.com
 download*.sys.truenas.net
-download-core.sys.truenas.net
 download-lb.utorrent.com
 download-new.utorrent.com
 download.alexa.com
@@ -53184,6 +53183,7 @@ trk.klclick.com
 trk.klclick1.com
 trk.klclick2.com
 trk.klclick3.com
+trk.t.qvcemail.com
 trkr.ws
 trocadero.com
 trocglobal.m.facebook.com
@@ -56086,6 +56086,7 @@ xkms.xbolive.com
 xkms.xboxlive.com
 xl7xml.client.xunlei.com
 xl8.eu
+xlate.dcard.tw
 xmasexpress.com
 xmpp-server.l.google.com
 xmppx.l.google.com
