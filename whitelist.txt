@@ -119,6 +119,10 @@
 *.fbcdn.net
 *.find.api.micloud.xiaomi.net
 *.forms.office.com
+*.fs1.hubspotusercontent-eu1.net
+*.fs1.hubspotusercontent-na1.net
+*.fs2.hubspotusercontent-eu1.net
+*.fs2.hubspotusercontent-na1.net
 *.fundingchoicesmessages.google.com
 *.fwupd.org
 *.game-mode.net
@@ -22435,6 +22439,10 @@ frys.com
 fs-bank.de
 fs-mineralstoffe.de
 fs.microsoft.com
+fs1.hubspotusercontent-eu1.net
+fs1.hubspotusercontent-na1.net
+fs2.hubspotusercontent-eu1.net
+fs2.hubspotusercontent-na1.net
 fs45.gounlimited.to
 fsbankmctn.com
 fsbdent-perham.com
