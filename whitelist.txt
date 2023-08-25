@@ -269,6 +269,7 @@
 *.tipico.de
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
+*.track.toggl.com
 *.trackersimulator.org
 *.trustev.com
 *.tuyacn.com
@@ -38639,6 +38640,7 @@ oschadbank.ua
 oselectronics.com
 osewpretty.com
 osheasmarketireland.com
+oshi.at
 oshibanaya.com
 oshkoshmagic.com
 oshmans.com
@@ -51667,6 +51669,7 @@ telsell.com
 telwis.pl
 tema-usa.com
 temp-lcs.samsungcloudsolution.net
+temp.sh
 temp2-config.samsungcloudsolution.net
 tempatshopping.com
 temperatureguard.com
