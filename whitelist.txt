@@ -32108,6 +32108,7 @@ linkinn.com
 linkn.co
 linkr.uk
 linkroll.com
+links*.afterpay.com
 links.*.slickdeals.net
 links.da.slickdeals.net
 links.email.crunchbase.com
@@ -38896,6 +38897,7 @@ p-pt.com
 p-tamtam.com
 p-ts.de
 p-upload.facebook.com
+p.*.datadoghq.com
 p.brid.tv
 p.d.0emn.com
 p.d.0fmm.com
@@ -44808,6 +44810,7 @@ saddleupshop.com
 saddleworld.co.uk
 saddlezone.com
 saddoboxing.com
+saddog-official.com
 sadiamonds.com
 sadiesilkies.tripod.com
 sadlerfanclub.com
@@ -53057,6 +53060,7 @@ track.smtp2go.net
 track.smtpsendemail.com
 track.spe.schoolmessenger.com
 track.talabat.com
+track.toggl.com
 track.ucas.com
 track.webgains.com
 track.yw56.com.cn
