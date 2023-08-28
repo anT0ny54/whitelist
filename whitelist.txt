@@ -98,6 +98,7 @@
 *.dropbox-dns.com
 *.dvsdvsdvsdva.com
 *.eaglecdn.com
+*.edevlet.gov.tr
 *.edge.experimentation.intuit.com
 *.email*.office.com
 *.email.microsoftemail.com
@@ -16323,6 +16324,7 @@ dhbbank.de
 dhcampingandfishingsupply.com
 dhgate.com
 dhmi.co.uk
+dht.aelitis.com
 dhz-shop.nl
 di.com.pl
 diabetic-footcare.com
@@ -49574,6 +49576,7 @@ starturl.com
 staruniforms.com
 starwell.de
 starwest-botanicals.com
+starzplay.com
 stashrugby.com
 stat-dv.mtsbank.ru
 stat.10jqka.com.cn
