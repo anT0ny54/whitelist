@@ -4242,6 +4242,7 @@ api.apple-cloudkit.com
 api.apptentive.com
 api.b.hatena.ne.jp
 api.bam-x.com
+api.baomoi.com
 api.bazaarvoice.com
 api.bountysource.com
 api.brightcove.com
@@ -10430,6 +10431,7 @@ c.s-microsoft.com
 c.seznam.cz
 c.trackmytarget.com
 c.trello.com
+c.webengage.com
 c.youdao.com
 c0.ifengimg.com
 c0.wp.com
@@ -54687,6 +54689,7 @@ vwbankdirect.pl
 vwfl.org.au
 vxcash.net
 vystarcu.org
+w-api.baomoi.com
 w-saarplus.de
 w.apprep.smartscreen.microsoft.com
 w.facebook.com
