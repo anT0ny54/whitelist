@@ -1,4 +1,5 @@
 *-akamaientrypoint.net
+*-apple.com.akadns.net
 *-boot.tiktok*.com
 *-lb.ultimedia.com
 *-spclient.spotify.com
@@ -5213,6 +5214,7 @@ asse.fr
 asseenontvmusic.com
 assessment.learning.microsoft.com
 asset.wsj.net
+assets-global.website-files.com
 assets-jpcust.jwpsrv.com
 assets-news-bcdn.dailyhunt.in
 assets-secure.applicaster.com
@@ -8468,6 +8470,7 @@ bitbucket.org
 bitebuzzer.com
 bitfinex.com
 bitget.com
+bitgrip.com
 biti-media.de
 bitly.com
 bitly.ws
@@ -8543,6 +8546,7 @@ bkc-paderborn.de
 bkite.com
 bkstore.com
 bl.ink
+bla.api.appboy.eu
 blablakids.com
 black-eagle.org
 black-forest-cuckoo-clocks.com
