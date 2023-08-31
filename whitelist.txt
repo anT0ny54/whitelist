@@ -222,6 +222,7 @@
 *.rewardsprod.trafficmanager.net
 *.riotpixels.net
 *.rtl-relay.iocnt.net
+*.rudderstack.com
 *.safebrowsing.apple
 *.samsungapps.com
 *.samsungapps.com.wtxcdn.com
@@ -4325,6 +4326,7 @@ api.revenuecat.com.herokudns.com
 api.rewards.brave.com
 api.rlje.net
 api.rollbar.com
+api.rudderlabs.com
 api.safedk.com
 api.samsungcloud.com
 api.sbs.com.au
@@ -19133,6 +19135,7 @@ en-gb.th-th.fbjs.facebook.com
 en-pointe.com
 en-us.facebook.com
 en.bab.la
+en.financerites.com
 en.gravatar.com
 en.lionelmessi.org
 en.w3schools.com
