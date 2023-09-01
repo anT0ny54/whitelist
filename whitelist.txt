@@ -8499,6 +8499,7 @@ bittrex.com
 bitw.in
 bitwala.com
 bitwarden.com
+bitwarden.eu
 bity.com
 biuronet.com
 biuroonline.pl
@@ -55413,6 +55414,7 @@ www-tc.pbs.org
 www-wide.l.google.com
 www.1safe.link
 www.22pixx.xyz
+www.4x4brasil.com.br
 www.56.com
 www.7eer.net
 www.a.espncdn.com
