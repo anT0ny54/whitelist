@@ -24495,6 +24495,7 @@ gov.in
 gov.kr
 gov.pl
 gov.tw
+gov.ua
 gov.uk
 govart.com
 govdelivery.com
