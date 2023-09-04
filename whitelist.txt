@@ -41,6 +41,7 @@
 *.api.iris.microsoft.com
 *.api.miwifi.com
 *.app.asana.com
+*.app.ringcentral.com
 *.apple-dns.net
 *.apple.com.akadns.net
 *.apple.com.edgekey.net
