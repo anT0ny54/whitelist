@@ -1492,6 +1492,7 @@ able2wear.co.uk
 ablenetinc.com
 abletrophies.com
 ablink.account.quizlet.com
+ablink.email.etsy.com
 ablink.mail.parkmobile.io
 abm.org.mx
 abmargenti.it
@@ -11619,6 +11620,7 @@ cdn.livechat.com.edgekey.net
 cdn.livechatinc.com
 cdn.mediavoice.com
 cdn.medium.com
+cdn.membershipworks.com
 cdn.mwbsys.com
 cdn.mxpnl.com
 cdn.onenote.net
