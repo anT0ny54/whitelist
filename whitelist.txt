@@ -53150,6 +53150,7 @@ tracking.*.sendcloud.sc
 tracking.agsystems.com
 tracking.airmee.com
 tracking.bol.com
+tracking.budbee.com
 tracking.dpd.de
 tracking.epicgames.com
 tracking.i2w.io
