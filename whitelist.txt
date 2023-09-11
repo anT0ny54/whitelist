@@ -1,5 +1,4 @@
 *-akamaientrypoint.net
-*-apple.com.akadns.net
 *-boot.tiktok*.com
 *-lb.ultimedia.com
 *-spclient.spotify.com
@@ -307,6 +306,7 @@
 *.zopim.com
 *api.*.microsoft.com
 *api.facebook.com
+*apple-com.akadns.net
 *events*.trafficmanager.net
 *feedback.heytapmobile.com
 *frontier*.byteoversea.com
@@ -31834,6 +31834,7 @@ landsdownundercatalog.com
 landsend.com
 lane4swim.com
 lanef.com
+languageacademy.com.au
 languagebooks.com.au
 lankum.com
 lansforsakringar.se
@@ -36725,6 +36726,7 @@ netbokhandeln.se
 netbsd.org
 netc.members.microsoft.com
 netcoresmartech.com
+netcup.net
 netdepo.hu
 netdirector.co.uk
 netdna.bootstrapcdn.com
@@ -55832,6 +55834,7 @@ www.kickasstorrents.ee
 www.kopimi.com
 www.kqzyfj.com
 www.labs-mqtt.xda-developers.com
+www.languageacademy.com.au
 www.legal.medium.com
 www.lh3.googleusercontent.com
 www.li.techrepublic.com
