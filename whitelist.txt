@@ -186,6 +186,7 @@
 *.micardapi.micloud.xiaomi.net
 *.microsoftstoreemail.com
 *.mkklcdnv6tempv4.com
+*.monitoring.*.amazonaws.com
 *.msdp1.com
 *.msf.3g.qq.com
 *.msftconnecttest.com
@@ -13811,6 +13812,7 @@ comprasperu.com.pe
 comprebien.com
 comprehensiveinc.com
 comprevenda.com
+compricer.se
 comptoir-marin.com
 compudabo.com.mx
 compumir.ru
@@ -19657,6 +19659,7 @@ eternaljewels.com
 eternallingerie.com
 eternalrings.com
 eternoamor.net
+eth.limo
 ethaicd.com
 ethermine.org
 ethicalwares.com
