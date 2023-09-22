@@ -183,6 +183,7 @@
 *.measurement-lab.org
 *.messengerpeople.com
 *.metric.gstatic.com
+*.metrics.heroku.com
 *.micardapi.micloud.xiaomi.net
 *.microsoftstoreemail.com
 *.mkklcdnv6tempv4.com
@@ -11599,6 +11600,7 @@ cdn-static-1.medium.com
 cdn-thumb.fds.api.xiaomi.com
 cdn-us-ec.yottaa.net
 cdn-yams.schibsted.com
+cdn.*.exponea.com
 cdn.adf.ly
 cdn.adrise.tv
 cdn.agilebits.com
