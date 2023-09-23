@@ -34267,6 +34267,7 @@ metricmechanic.com
 metricool.com
 metrics-target.siriusxm.com
 metrics.foxnews.com
+metrics.heroku.com
 metrics.leaptel.com.au
 metrics.lidl.com
 metrics.plex.tv
@@ -46212,6 +46213,7 @@ sendacelebration.com
 sendaframe.com
 sendaimeiten.com
 sendflowers.ru
+sendgrid-secure.bluecore.com
 sendgrid.net
 sendit.com
 sendleis.com
@@ -53340,6 +53342,7 @@ tristatecamera.com
 trivago.com
 trivago.com.br
 trk.bcrc.io
+trk.ecomm.lenovo.com
 trk.klclick.com
 trk.klclick1.com
 trk.klclick2.com
