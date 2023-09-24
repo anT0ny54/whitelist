@@ -253,6 +253,7 @@
 *.silknet.com
 *.slgnt.eu.cdn.cloudflare.net
 *.smartscreen-prod.microsoft.com
+*.smartsheet.com
 *.smoot.apple.com
 *.smsapi.micloud.xiaomi.net
 *.snap.com
@@ -3177,6 +3178,7 @@ allyoucanbear.com
 allyourprints.com
 almacendelibros.com
 alman.cz
+almaweb.uni-leipzig.de
 almdorfammertal.de
 almhutte.nl
 almondart.com
@@ -12938,6 +12940,7 @@ cleanlinesurf.com
 cleanreport.com
 cleanstore.co.uk
 cleansweepsupply.com
+cleantalk.org
 clear.com.br
 clearanceshop.com.au
 clearbit.com
