@@ -276,6 +276,7 @@
 *.sweet.tv
 *.syn-alias.com
 *.syndication.twitter.com
+*.t.en25.com
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
@@ -314,6 +315,7 @@
 *api.*.microsoft.com
 *api.facebook.com
 *apple-com.akadns.net
+*cdn*.exponea.com
 *events*.trafficmanager.net
 *feedback.heytapmobile.com
 *frontier*.byteoversea.com
@@ -4468,6 +4470,7 @@ app.onetrust.com
 app.plex.tv
 app.qq.com
 app.raidrive.com
+app.response.oracle-mail.com
 app.ringcentral.com
 app.sephora.com
 app.traderepublic.com
@@ -11639,6 +11642,7 @@ cdn.elev.io
 cdn.embedly.com
 cdn.engagement.ai
 cdn.epg.tvdownload.microsoft.com
+cdn.eu1.exponea.com
 cdn.exponea.com
 cdn.fbsbx.com
 cdn.firebase.com
@@ -11703,7 +11707,9 @@ cdn.transifex.com
 cdn.trustcommander.net
 cdn.ttgtmedia.com
 cdn.turner.com
+cdn.uk.exponea.com
 cdn.unpkg.com
+cdn.us1.exponea.com
 cdn.viblast.com
 cdn.video.meredithcorp.io
 cdn.vidible.tv
@@ -44869,6 +44875,7 @@ s0.wp.com
 s1.symcb.com
 s1.wp.com
 s11.cn
+s1973398186.t.en25.com
 s2.static.cfgr3.com
 s2.symcb.com
 s2.wp.com
@@ -53530,6 +53537,7 @@ tylertrends.com
 tysnes-sparebank.no
 tysonchandler.com
 u-boxit.com
+u.cubeupload.com
 u.mavrev.com
 u.nu
 u.to
