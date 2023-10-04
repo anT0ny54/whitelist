@@ -59,6 +59,7 @@
 *.boldchat.com
 *.bonialconnect.com
 *.buymeacoffee.com
+*.campaign.aliexpress.com
 *.carx-online.com
 *.cas.ms
 *.cbox.im
@@ -2709,6 +2710,7 @@ akcessories.com
 akearmory.com
 akf.de
 akf24.de
+akibe.fr
 akidsbeddingline.com
 akirastudios.com
 akizz.com
@@ -2814,6 +2816,7 @@ albinpreissler.de
 albionantiques.com
 albnatur.de
 albumframes.com
+albumprinter.com
 albumsinc.com
 albumsource.com
 albumsunlimited.com
@@ -2890,6 +2893,7 @@ alibaba.com
 aliblabla.it
 alibris.com
 alicdn.com
+alicebroderie.com
 alicesgarden.fr
 aliceshop.com
 alicesstainedglass.com
@@ -3935,6 +3939,7 @@ anklet.com
 anmex.facebook.com
 anna-fans.com
 anna-lisaonline.com
+annabac.com
 annabank.com
 annabean.com
 annabelchaffer.co.uk
@@ -5244,6 +5249,7 @@ aspinningwheel.com
 asplendidtable.com
 aspnetcdn.com
 asport.pl
+assasferronnerie.fr
 asse-actu.com
 asse-live.com
 asse-stats.com
@@ -9046,6 +9052,7 @@ boc.cn
 boc.ru
 boc123.com
 boc24.de
+bocage.fr
 bocagiftbaskets.com
 bocajava.com
 bochk.com
@@ -9197,6 +9204,7 @@ bonaparte.se
 bonboniera.co.uk
 bonbonmaman.com
 bonbonniere.tripod.com
+bonchicboncoeur.fr
 bond-america.com
 bondel.com
 bondfaro.com.br
@@ -14234,6 +14242,7 @@ cosmetics.com
 cosmeticsfairy.co.uk
 cosmeticsforall.com
 cosmetictimes.com
+cosmetologieclimatique.com
 cosmic-creations.com
 cosmiccloset.com
 cosmicflamingo.com
@@ -26106,6 +26115,7 @@ helmetsetc.com
 helmutshobbies.com
 help.apple.com.edgekey.net
 help.appsumo.com
+help.batch.com
 help.medium.com
 help.servicedeskplus.com
 help.ui.xboxlive.com
@@ -40769,6 +40779,7 @@ pl2-play.adtonos.com
 pl8source.com
 pla-dio.com
 place-cards.co.uk
+placedestendances.com
 placehold.it
 placeholdit.imgix.net
 placergolddesign.com
@@ -50323,6 +50334,7 @@ stringthis.com
 stripe.com
 stripe.network
 stripesplus.com
+strm.yandex.net
 stroeerdigitalpublishing.de
 strokemaster.com
 strolche.ch
@@ -53728,6 +53740,7 @@ unsere-raiba.de
 unserevolksbank.de
 unsplash.com
 unsubscribe.convertkit.com
+unsubscribe.prod.leanplum.com
 untiny.me
 uob.co.th
 uob.com.sg
