@@ -6398,8 +6398,6 @@ baltimore.cbslocal.com
 baltimoreblast.com
 baltimoregiftbaskets.com
 baluchrugs.com
-bam-eu01.cell.eu.nr-data.net
-bam.eu01.nr-data.net
 bamabots.com
 bamafever.com
 bamason.com
@@ -20638,7 +20636,6 @@ fastival.fr
 fastkayak.com
 fastlane.tools
 fastly-analytics.com
-fastly-tls12-bam.eu01.nr-data.net
 fastnfab.org
 fastpitchnetworking.com
 fasturnjunction.com
@@ -35970,6 +35967,7 @@ mwf.com
 mx-go.aws.kelkoo.com
 mx-go.kelkoogroup.net
 mx-out.facebook.com
+mx.technolutions.net
 mx.yandex.ru
 mx01.facebook.com
 mx02.facebook.com
