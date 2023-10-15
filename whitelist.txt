@@ -185,6 +185,7 @@
 *.metric.gstatic.com
 *.metrics.heroku.com
 *.micardapi.micloud.xiaomi.net
+*.microsoftstart.com
 *.microsoftstoreemail.com
 *.mkklcdnv6tempv4.com
 *.monitoring.*.amazonaws.com
@@ -16359,7 +16360,6 @@ developers.prod.facebook.com
 developersniche.com
 development.facebook.com
 deviantart.com
-device-api.urbanairship.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us-ud.amazon.com
@@ -32255,7 +32255,6 @@ linkr.uk
 linkroll.com
 links*.afterpay.com
 links.*.slickdeals.net
-links.da.slickdeals.net
 links.email.crunchbase.com
 links.getblueshift.com
 links.getblueshift.com.cdn.cloudflare.net
@@ -53639,6 +53638,7 @@ uim.tifbs.net
 uimetadata.samsungiotcloud.com
 uk-go.aws.kelkoo.com
 uk-go.kelkoogroup.net
+uk-qhs2.reedbusiness.net
 uk-ua.facebook.com
 uk.gravatar.com
 uk.pool.ntp.org
