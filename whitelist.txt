@@ -313,6 +313,7 @@
 *.wsj.net
 *.www-googletagmanager.l.google.com
 *.xp.apple.com
+*.xp.itunes-apple.com.akadns.net
 *.ytimg.com
 *.zopim.com
 *api.*.microsoft.com
@@ -4265,6 +4266,7 @@ api-video-sf2p.facebook.com
 api.account.xiaomi.com
 api.accuweather.com
 api.ad.xiaomi.com
+api.addressy.com
 api.adguard.com
 api.adguard.org
 api.agoda.com.edgekey.net
@@ -42258,6 +42260,7 @@ purplekittyyarns.com
 purplemountains.com
 purplepride.org
 purplepuffin.co.uk
+purr.nytimes.com
 purrfectengravers.com
 purrfectfence.com
 purrfectplay.com
