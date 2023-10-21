@@ -3705,6 +3705,7 @@ analytics.global.sky.com
 analytics.halkbank.com.tr
 analytics.icis.com
 analytics.shopify.com
+analytics.tripwireinteractive.com
 analytics.twitter.com
 analyticsinsights-pa.googleapis.com
 analyticssearch-pa.googleapis.com
@@ -48097,6 +48098,7 @@ smrbathrooms.co.uk
 sms-hm.de
 sms.ads.heytapmobi.com
 sms.facebook.com
+smsgateway.textra.me
 smsmail-04-01-snc1.facebook.com
 smssat.biz
 smtp-sin.microsoft.com
