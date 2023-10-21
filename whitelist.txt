@@ -1833,7 +1833,6 @@ ad-api.band.us
 ad-cycle.com
 ad-elektro.cz
 ad-im-cmg.streamguys1.com
-ad-ipd.sxp.smartclip.net
 ad-magazin.de
 ad-mats.com
 ad-med.cz
@@ -16187,7 +16186,6 @@ derutaimports.com
 derverber.com
 des-marques-et-vous.com
 des-voiles-et-moi.com
-des.smartclip.net
 desayunandoconvos.com.ar
 desbyrne-jewels.com
 deschutesgallery.com
@@ -53260,6 +53258,7 @@ tracemyip.org
 traceurl.com
 track*.effiliation.com
 track-eu.adformnet.akadns.net
+track.4px.com
 track.adform.net
 track.adtraction.com
 track.aliexpress.com
