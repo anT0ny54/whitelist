@@ -56072,7 +56072,6 @@ www.noteworthy.medium.com
 www.notifications-pa.googleapis.com
 www.notifications.googleapis.com
 www.npmjs.com
-www.npttech.com
 www.ns-cdn.neustar.biz
 www.ns1.com
 www.nsfw.reddit.com
