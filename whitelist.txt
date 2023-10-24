@@ -20076,6 +20076,7 @@ expertzone.microsoft.com
 expflorist.com
 expgolf.com
 explorationdesign2.com
+explore.amd.com
 exploreproducts.com
 explorer.apis.google.com
 exploresites-pa.googleapis.com
@@ -51252,6 +51253,7 @@ t.ionos.de
 t.lt02.net
 t.ly
 t.me
+t.media01.eu
 t.myvisualiq.net
 t.paydaythegame.com
 t.paypal.com
@@ -51356,6 +51358,7 @@ tagdesigns.com
 tagged.com
 taghavirugs.com
 tagilbank.ru
+tagm.eduscho.at
 tagm.tchibo.de
 tagme-engraving.com
 tagmee.com
@@ -53303,6 +53306,7 @@ trackenterprises.com
 tracker*.namitiyu.com
 tracker*.scoober.com
 tracker-g.aiscore.com
+tracker.bitturk.net
 tracker.debian.org
 tracker.dominos.com
 tracker.gpcdn.pl
