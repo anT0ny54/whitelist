@@ -4403,6 +4403,7 @@ api.vizio.com
 api.yep.com
 api.zaloapp.com
 api.zepto.co.in
+api.zynga.com
 api2.facebook.com
 api3.siftscience.com
 apicache.vudu.com
