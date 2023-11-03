@@ -222,6 +222,7 @@
 *.push.apple.com
 *.pushmessage.samsung.com
 *.pv-cdn.net
+*.queue.amazonaws.com
 *.quicns.com
 *.rbc.online-metrix.net
 *.recommend.lgtvcommon.com
@@ -11392,6 +11393,7 @@ cat-lovers-gifts.com
 cat-sports.net
 catalink.net
 catalley.net
+catalog.gamepass.com
 catalog.se
 catalog.update.microsoft.com
 catalogbeta.microsoft.com
@@ -13786,6 +13788,7 @@ community.facebook.com
 community.finanzguru.de
 community.research.microsoft.com
 community.spiceworks.com
+community.ukg.com
 communitybankers.org
 communitybankofsmithcounty.com
 communitybanks.org
