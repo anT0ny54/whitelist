@@ -1189,6 +1189,7 @@ a1.adformnet.akadns.net
 a1.ms.a.microsoft.com
 a100.ms.a.microsoft.com
 a101.ms.a.microsoft.com
+a101.wawlabs.com
 a1014.g.akamai.net
 a102.ms.a.microsoft.com
 a103.ms.a.microsoft.com
@@ -37118,6 +37119,8 @@ ngenix.net
 ngfts.lge.com
 ngll.org
 ngrcomputers.co.za
+ngrok.com
+ngrok.io
 nhada.org
 nhantiquealley.com
 nhbankers.com
@@ -55014,6 +55017,7 @@ w7.web.whatsapp.com
 w8.com.cn
 w8.web.whatsapp.com
 w88.espn.com
+wa.wawlabs.com
 waa.ai
 wabankers.com
 wabetainfo.com
