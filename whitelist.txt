@@ -56,6 +56,7 @@
 *.aylanetworks.com
 *.beaute-test.com
 *.blackfire.io
+*.bnbchain.org
 *.boldchat.com
 *.bonialconnect.com
 *.buymeacoffee.com
@@ -8970,6 +8971,7 @@ bn.aliorbank.pl
 bn.gravatar.com
 bnamic.com
 bnb.gov.br
+bnbchain.org
 bnc.ca
 bnc.lt
 bnc.nc
@@ -46443,6 +46445,7 @@ server-it.imrworldwide.com
 serverfault.com
 service.biv.sony.tv
 service.fuib.com
+service.lgtvcommon.com
 service.santanderconsumer.at
 service.signalr.net
 service.weather.microsoft.com
