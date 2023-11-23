@@ -239,6 +239,7 @@
 *.safebrowsing.apple
 *.samsungapps.com
 *.samsungapps.com.wtxcdn.com
+*.sawap.equifax.com
 *.scarf.sh
 *.scdn.co
 *.sch.gr
@@ -48131,6 +48132,7 @@ smcaenbillet.fr
 smcci.com
 smedlock.com
 smelliepuck.50megs.com
+smetrics*.playstation.com
 smetrics.foxnews.com
 smetrics.zionsbank.com
 smf.co.kr
@@ -53784,6 +53786,7 @@ ultradiamonds.com
 ultraiso.net
 ultrunr.com
 umaiclothing.com
+umami.is
 umbank.ru
 umbrellabank.com
 umbrellastand.com
