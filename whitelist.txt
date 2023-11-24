@@ -40,6 +40,7 @@
 *.api.intuit.com
 *.api.iris.microsoft.com
 *.api.miwifi.com
+*.api.playstation.com
 *.app.asana.com
 *.app.chat.xiaomi.net
 *.app.ringcentral.com
@@ -214,6 +215,9 @@
 *.performfeeds.com
 *.phonecallapi.micloud.xiaomi.net
 *.pipe.aria.microsoft.com
+*.playstation.com-v2.edgekey.net
+*.playstation.com.*.omtrdc.net
+*.playstation.com.edgekey.net
 *.poki-gdn.com
 *.postup.com
 *.pressablecdn.com
@@ -39803,6 +39807,7 @@ payments-tracking.waveapps.com
 payments.braintree-api.com
 payments.chronopay.com
 payments.chronopay.ru
+payments.direct.playstation.com
 payments.goldenpay.az
 payments.mtsbank.ru
 payments.olx.com
@@ -48132,7 +48137,6 @@ smcaenbillet.fr
 smcci.com
 smedlock.com
 smelliepuck.50megs.com
-smetrics*.playstation.com
 smetrics.foxnews.com
 smetrics.zionsbank.com
 smf.co.kr
@@ -51964,8 +51968,6 @@ telemag.net
 telemark-pyrenees.com
 telemarkdown.com
 telemarketing.gr
-telemetry-console.api.playstation.com
-telemetry-console.api.playstation.com-v2.edgekey.net
 telemetry.mozilla.org
 telenor.m.facebook.com
 telepathwords.research.microsoft.com
