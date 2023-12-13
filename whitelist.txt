@@ -11687,6 +11687,7 @@ cdn.elev.io
 cdn.embedly.com
 cdn.engagement.ai
 cdn.epg.tvdownload.microsoft.com
+cdn.epoq.de
 cdn.eu1.exponea.com
 cdn.exponea.com
 cdn.fbsbx.com
