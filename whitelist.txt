@@ -184,6 +184,7 @@
 *.mcsvc.samsung.com
 *.mdhcdn.com
 *.measurement-lab.org
+*.mediatek.com
 *.messengerpeople.com
 *.metric.gstatic.com
 *.metrics.heroku.com
