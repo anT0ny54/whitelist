@@ -184,7 +184,6 @@
 *.mcsvc.samsung.com
 *.mdhcdn.com
 *.measurement-lab.org
-*.mediatek.com
 *.messengerpeople.com
 *.metric.gstatic.com
 *.metrics.heroku.com
@@ -20605,6 +20604,7 @@ fanwear.com
 fanzam.com
 faoschwarz.com
 fapcat.com
+faptor.com
 faq.whatsapp.com
 faqqly.com
 farale.com
