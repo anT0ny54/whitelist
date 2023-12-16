@@ -1810,6 +1810,7 @@ activate.one.microsoft.com
 activate.wip3.adobe.com
 activation-v2.sls.microsoft.com.nsatc.net
 activation.adobedtm.com
+activation.cloud.techsmith.com
 activation.easeus.com
 activation.gfe.nvidia.com
 activation.phaseone.com
