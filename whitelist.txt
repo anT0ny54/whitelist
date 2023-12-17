@@ -14494,6 +14494,7 @@ coversandmore.com
 covershop.de
 coverspecialist.com
 coveryourwalls.com
+covidsafefurs.org
 coviellobros.com
 cow-parade.nl
 cowbellsgifts.com
@@ -32404,6 +32405,7 @@ live.adyen.com
 live.com
 live.flightservicesv2.datasavannah.com
 live.github.com
+live.mmcdn.com
 live.simcitybuildit.com
 live800.com
 liveandlearn.com
