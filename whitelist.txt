@@ -155,11 +155,14 @@
 *.gov.ua
 *.gph.easebar.com
 *.gs-loc.apple.com
+*.gvt1.com
+*.gvt3.com
 *.ilan.gov.tr
 *.images-amazon.com
 *.images.core.optasports.com
 *.imgix.datadoghq.com
 *.ims.vodafone.com
+*.infinitummail.com
 *.info.lgsmartad.com
 *.informer.yandex.ru
 *.insider.microsoft365.com
