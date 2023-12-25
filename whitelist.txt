@@ -44,7 +44,6 @@
 *.app.asana.com
 *.app.chat.xiaomi.net
 *.app.ringcentral.com
-*.apple-dns.net
 *.apple.com.akadns.net
 *.apple.com.edgekey.net
 *.apple.com.edgesuite.net
