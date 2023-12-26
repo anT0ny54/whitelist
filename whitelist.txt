@@ -291,6 +291,7 @@
 *.stats.paypal.com
 *.storage.googleapis.com
 *.strpst.com
+*.ststat.net
 *.sunwaydigitalwave.com.my
 *.sweet.tv
 *.syn-alias.com
