@@ -76,6 +76,7 @@
 *.cdninstagram.com
 *.cdntips.net
 *.cdpsvc.lgtvcommon.com
+*.cdu.de
 *.cdx.cedexis.net
 *.ceros.com
 *.change.org.cdn.cloudflare.net
