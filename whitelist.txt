@@ -4017,6 +4017,7 @@ apparelcandy.com
 appareldeals.com
 appbitly.com
 appboot.netflix.com
+appcfg.v.qq.com
 appcloud.ironbeast.io
 appealinglingerie.com
 appelts.ca
@@ -11368,6 +11369,7 @@ cdn-audio-1.medium.com
 cdn-content.ampproject.org
 cdn-eb.syndication.twitter.com
 cdn-gl.imrworldwide.com
+cdn-go.cn
 cdn-images-1.medium.com
 cdn-images-2.medium.com
 cdn-images.mailchimp.com
@@ -40908,6 +40910,7 @@ pg.eazy2pay.com
 pga.com
 pgatour.com
 pgatour.com.au
+pgdt.gtimg.cn
 pggms.sbs
 pghcamex.com
 pgi.billdesk.com
@@ -43049,6 +43052,7 @@ qpcc.com
 qpinteriors.co.uk
 qproquo.com
 qptv.ru
+qq-web.cdn-go.cn
 qqc.co
 qr-code-generator.com
 qr-in.com
@@ -50823,6 +50827,7 @@ static-asm.secure.skypeassets.com
 static-cl.xhcdn.com
 static-ite.paytmbank.com
 static-pepper.dealabs.com
+static-res.qq.com
 static-xl9-ssl.xunlei.com
 static.127777.com
 static.3001.net
@@ -52485,6 +52490,7 @@ tangletoys.com
 tangochocolat.com
 tangocommunications.co.uk
 tangomarket.ru
+tangram-config.gdt.qq.com
 tangygifts.co.uk
 tanicpacks.com
 taniegsm.com.pl
