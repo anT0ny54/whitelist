@@ -12001,6 +12001,7 @@ chassisshop.com
 chassoprix.com
 chat.cdn.whatsapp.net
 chat.openai.com$app=com.openai.atlas
+chat.z.ai
 chateau-de-fleurs.com
 chaters.co.uk
 chatgpt.com$app=com.openai.atlas
